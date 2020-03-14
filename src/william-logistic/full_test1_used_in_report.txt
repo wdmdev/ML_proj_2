@@ -1,0 +1,62 @@
+Mean of y: 48.18869047619047
+Standard deviation of y: 20.070697436496356
+
+
+Class count after transformation:
+high risk: 24
+low risk: 679
+medium risk: 473
+
+
+Cross Validation on logistic
+Cross Validation on tree
+Cross Validation on baseline
+E_gen_logi: 0.010204081632653062
+E_gen_tree: 0.01615646258503401
+E_gen_base: 0.03741496598639456
+
+n12: 18.0
+n21: 11.0
+
+theta: 0.0660377358490566
+Q: 395.70545454545453
+
+p: 210.38545454545456
+q: 184.32
+
+Confidence Interval for theta (difference in model A and B)
+Lower: 0.06299757980948018 , Upper:0.06930031567073547
+
+Testing hypothesis, H0: No difference in A and B performance
+p-value: 0.26493089646101
+n12: 41.0
+n21: 9.0
+
+theta: 0.3018867924528302
+Q: 255.53882132834426
+
+p: 165.69036482694105
+q: 88.84845650140319
+
+Confidence Interval for theta (difference in model A and B)
+Lower: 0.2989259675300149 , Upper:0.3064250530957411
+
+Testing hypothesis, H0: No difference in A and B performance
+p-value: 5.614100093254136e-06
+
+#Tree against baseline model
+
+n12: 38.0
+n21: 13.0
+
+theta: 0.2358490566037736
+Q: 237.4768876804016
+
+p: 146.12486927421043
+q: 90.35201840619118
+
+Confidence Interval for theta (difference in model A and B)
+Lower: 0.23254629315498598 , Upper:0.24047852273442816
+
+Testing hypothesis, H0: No difference in A and B performance
+p-value: 0.0006210434562277105

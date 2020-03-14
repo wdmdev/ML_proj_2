@@ -1,0 +1,85 @@
+% !TeX spellcheck = en_GB
+\documentclass[11pt,fleqn]{article}
+
+%packages
+\usepackage{Blastoise}
+\usepackage{MediocreMike}
+\usepackage{SpeedyGonzales}
+
+\title{Supervised Learning: Classification and Regression}
+\author{Asger Schultz, s183912\\
+	Rasmus Bryld, s183898\\
+	William Marstrand, s183921}
+\date{\today}
+
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{Technical University of Denmark \\
+	Asger Schultz, Rasmus Bryld, William Marstrand}
+\chead{}
+\rhead{Course: 02450}
+\rfoot{Side \thepage{} af \pageref{LastPage}}
+
+\graphicspath{{Billeder/}}
+\linespread{1}
+\geometry{top=1.5cm, bottom=1.5cm}
+
+\newcommand{\respdist}[3]{
+	\vspace*{-.5cm}
+	\begin{table}[H]
+		\small
+		\begin{tabular}{l r}
+			\multicolumn{2}{l}{\textbf{Responsibility distribution}}	\\
+			Asger Schultz&	#1\pro\\
+			Rasmus Bryld&	#2\pro\\
+			William Marstrand&#3\pro
+		\end{tabular}
+	\end{table}
+	\vspace*{-.3cm}
+}
+
+%variable semantics
+\newcommand{\var}[1]{\textbf{#1}}
+
+%\numberwithin{equation}{section}
+\numberwithin{footnote}{section}
+\numberwithin{figure}{section}
+\numberwithin{table}{section}
+
+
+\begin{document}
+%Front page and table of contents
+\maketitle
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=(\textwidth/2)]{DTU_logo}
+\end{figure}
+\thispagestyle{empty}
+\clearpage
+
+\tableofcontents
+\thispagestyle{empty}
+
+\paragraph{Notes on code and data} All source code files will be included along with the report. The full project, including data, is freely available at \url{https://gitlab.gbar.dtu.dk/s183912/skynet-2}. The data can also be fetched from \url{www.noegletal.dk} by downloading all available data as a \code{.csv} file. However, we recommend getting the data from the file \code{src/full\_noegletal.csv}, partially to ensure the data is the same, and partially to prevent encoding issues, as the \code{.csv} file from \url{www.noegletal.dk} is not \code{utf-8} encoded.
+
+\clearpage
+\setcounter{page}{1}
+%Sections
+\section{Introduction}
+\input{introduction.tex}
+
+\section{Regression}
+\input{regression.tex}
+
+\section{Classification}
+\input{classification.tex}
+
+\section{Discussion}
+\input{discussion.tex}
+
+\begin{thebibliography}{9}
+	\bibitem{bog} Herlau, Tue et al.: "Introduction to Machine Learning and Data Mining", version 1.3.
+\end{thebibliography}
+
+
+\end{document}

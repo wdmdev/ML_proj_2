@@ -1,0 +1,286 @@
+Starting network training
+Time: 2019-11-05_20-13-16
+Attemptning to predict reported thefts and burglaries 5 years in the future using 4 years of data
+
+Estimating nans
+Done creating dataset (observations, features)
+Data from 2007 to 2018 was used
+x: (392, 716)
+y: (392,)
+
+Performing two-layer cross-validation
+Starting outer loop 0
+Starting inner loop 0
+(318, 716) (35, 716)
+Starting inner loop 1
+(318, 716) (35, 716)
+Starting inner loop 2
+(318, 716) (35, 716)
+Starting inner loop 3
+(318, 716) (35, 716)
+Starting inner loop 4
+(318, 716) (35, 716)
+Starting inner loop 5
+(318, 716) (35, 716)
+Starting inner loop 6
+(318, 716) (35, 716)
+Starting inner loop 7
+(318, 716) (35, 716)
+Starting inner loop 8
+(318, 716) (35, 716)
+Starting inner loop 9
+(318, 716) (35, 716)
+
+Total training time: 3.4544 s
+
+MSELoss() evaluated on 39 test data points: 1.726385
+Specific cases
+
+Starting outer loop 1
+Starting inner loop 0
+(318, 716) (35, 716)
+Starting inner loop 1
+(318, 716) (35, 716)
+Starting inner loop 2
+(318, 716) (35, 716)
+Starting inner loop 3
+(318, 716) (35, 716)
+Starting inner loop 4
+(318, 716) (35, 716)
+Starting inner loop 5
+(318, 716) (35, 716)
+Starting inner loop 6
+(318, 716) (35, 716)
+Starting inner loop 7
+(318, 716) (35, 716)
+Starting inner loop 8
+(318, 716) (35, 716)
+Starting inner loop 9
+(318, 716) (35, 716)
+
+Total training time: 2.8957 s
+
+MSELoss() evaluated on 39 test data points: 0.368962
+Specific cases
+
+Starting outer loop 2
+Starting inner loop 0
+(318, 716) (35, 716)
+Starting inner loop 1
+(318, 716) (35, 716)
+Starting inner loop 2
+(318, 716) (35, 716)
+Starting inner loop 3
+(318, 716) (35, 716)
+Starting inner loop 4
+(318, 716) (35, 716)
+Starting inner loop 5
+(318, 716) (35, 716)
+Starting inner loop 6
+(318, 716) (35, 716)
+Starting inner loop 7
+(318, 716) (35, 716)
+Starting inner loop 8
+(318, 716) (35, 716)
+Starting inner loop 9
+(318, 716) (35, 716)
+
+Total training time: 3.5608 s
+
+MSELoss() evaluated on 39 test data points: 1.597670
+Specific cases
+
+Starting outer loop 3
+Starting inner loop 0
+(318, 716) (35, 716)
+Starting inner loop 1
+(318, 716) (35, 716)
+Starting inner loop 2
+(318, 716) (35, 716)
+Starting inner loop 3
+(318, 716) (35, 716)
+Starting inner loop 4
+(318, 716) (35, 716)
+Starting inner loop 5
+(318, 716) (35, 716)
+Starting inner loop 6
+(318, 716) (35, 716)
+Starting inner loop 7
+(318, 716) (35, 716)
+Starting inner loop 8
+(318, 716) (35, 716)
+Starting inner loop 9
+(318, 716) (35, 716)
+
+Total training time: 3.3455 s
+
+MSELoss() evaluated on 39 test data points: 0.216590
+Specific cases
+
+Starting outer loop 4
+Starting inner loop 0
+(318, 716) (35, 716)
+Starting inner loop 1
+(318, 716) (35, 716)
+Starting inner loop 2
+(318, 716) (35, 716)
+Starting inner loop 3
+(318, 716) (35, 716)
+Starting inner loop 4
+(318, 716) (35, 716)
+Starting inner loop 5
+(318, 716) (35, 716)
+Starting inner loop 6
+(318, 716) (35, 716)
+Starting inner loop 7
+(318, 716) (35, 716)
+Starting inner loop 8
+(318, 716) (35, 716)
+Starting inner loop 9
+(318, 716) (35, 716)
+
+Total training time: 2.8146 s
+
+MSELoss() evaluated on 39 test data points: 0.557625
+Specific cases
+
+Starting outer loop 5
+Starting inner loop 0
+(318, 716) (35, 716)
+Starting inner loop 1
+(318, 716) (35, 716)
+Starting inner loop 2
+(318, 716) (35, 716)
+Starting inner loop 3
+(318, 716) (35, 716)
+Starting inner loop 4
+(318, 716) (35, 716)
+Starting inner loop 5
+(318, 716) (35, 716)
+Starting inner loop 6
+(318, 716) (35, 716)
+Starting inner loop 7
+(318, 716) (35, 716)
+Starting inner loop 8
+(318, 716) (35, 716)
+Starting inner loop 9
+(318, 716) (35, 716)
+
+Total training time: 2.8105 s
+
+MSELoss() evaluated on 39 test data points: 1.201774
+Specific cases
+
+Starting outer loop 6
+Starting inner loop 0
+(318, 716) (35, 716)
+Starting inner loop 1
+(318, 716) (35, 716)
+Starting inner loop 2
+(318, 716) (35, 716)
+Starting inner loop 3
+(318, 716) (35, 716)
+Starting inner loop 4
+(318, 716) (35, 716)
+Starting inner loop 5
+(318, 716) (35, 716)
+Starting inner loop 6
+(318, 716) (35, 716)
+Starting inner loop 7
+(318, 716) (35, 716)
+Starting inner loop 8
+(318, 716) (35, 716)
+Starting inner loop 9
+(318, 716) (35, 716)
+
+Total training time: 3.0157 s
+
+MSELoss() evaluated on 39 test data points: 0.379050
+Specific cases
+
+Starting outer loop 7
+Starting inner loop 0
+(318, 716) (35, 716)
+Starting inner loop 1
+(318, 716) (35, 716)
+Starting inner loop 2
+(318, 716) (35, 716)
+Starting inner loop 3
+(318, 716) (35, 716)
+Starting inner loop 4
+(318, 716) (35, 716)
+Starting inner loop 5
+(318, 716) (35, 716)
+Starting inner loop 6
+(318, 716) (35, 716)
+Starting inner loop 7
+(318, 716) (35, 716)
+Starting inner loop 8
+(318, 716) (35, 716)
+Starting inner loop 9
+(318, 716) (35, 716)
+
+Total training time: 4.0556 s
+
+MSELoss() evaluated on 39 test data points: 0.496830
+Specific cases
+
+Starting outer loop 8
+Starting inner loop 0
+(318, 716) (35, 716)
+Starting inner loop 1
+(318, 716) (35, 716)
+Starting inner loop 2
+(318, 716) (35, 716)
+Starting inner loop 3
+(318, 716) (35, 716)
+Starting inner loop 4
+(318, 716) (35, 716)
+Starting inner loop 5
+(318, 716) (35, 716)
+Starting inner loop 6
+(318, 716) (35, 716)
+Starting inner loop 7
+(318, 716) (35, 716)
+Starting inner loop 8
+(318, 716) (35, 716)
+Starting inner loop 9
+(318, 716) (35, 716)
+
+Total training time: 2.9831 s
+
+MSELoss() evaluated on 39 test data points: 0.748159
+Specific cases
+
+Starting outer loop 9
+Starting inner loop 0
+(318, 716) (35, 716)
+Starting inner loop 1
+(318, 716) (35, 716)
+Starting inner loop 2
+(318, 716) (35, 716)
+Starting inner loop 3
+(318, 716) (35, 716)
+Starting inner loop 4
+(318, 716) (35, 716)
+Starting inner loop 5
+(318, 716) (35, 716)
+Starting inner loop 6
+(318, 716) (35, 716)
+Starting inner loop 7
+(318, 716) (35, 716)
+Starting inner loop 8
+(318, 716) (35, 716)
+Starting inner loop 9
+(318, 716) (35, 716)
+
+Total training time: 2.8486 s
+
+MSELoss() evaluated on 39 test data points: 1.140458
+Specific cases
+
+Done performing two-layer cross-validation.
+0.839047651167731
+[1.72638547 0.36896226 1.59767044 0.21658985 0.55762494 1.20177436
+ 0.37904969 0.49683008 0.74815905 1.14045846]
+[(2,), (2,), (2,), (2,), (2,), (2,), (2,), (2,), (2,), (2,)]

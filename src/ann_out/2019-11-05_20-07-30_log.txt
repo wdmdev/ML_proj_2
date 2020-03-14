@@ -1,0 +1,4486 @@
+Starting network training
+Time: 2019-11-05_20-07-30
+Attemptning to predict reported thefts and burglaries 5 years in the future using 4 years of data
+
+Estimating nans
+Done creating dataset (observations, features)
+Data from 2007 to 2018 was used
+x: (392, 716)
+y: (392,)
+
+Performing two-layer cross-validation
+Starting outer loop 0
+Starting inner loop 0
+(318, 716) (35, 716)
+
+Total training time: 2.7289 s
+
+MSELoss() evaluated on 35 test data points: 0.229648
+Specific cases
+
+
+Total training time: 1.6614 s
+
+MSELoss() evaluated on 35 test data points: 0.262801
+Specific cases
+
+
+Total training time: 1.5715 s
+
+MSELoss() evaluated on 35 test data points: 0.260179
+Specific cases
+
+
+Total training time: 1.8589 s
+
+MSELoss() evaluated on 35 test data points: 0.160488
+Specific cases
+
+
+Total training time: 2.2298 s
+
+MSELoss() evaluated on 35 test data points: 0.172603
+Specific cases
+
+
+Total training time: 2.0076 s
+
+MSELoss() evaluated on 35 test data points: 0.160565
+Specific cases
+
+
+Total training time: 2.3356 s
+
+MSELoss() evaluated on 35 test data points: 0.095918
+Specific cases
+
+Starting inner loop 1
+(318, 716) (35, 716)
+
+Total training time: 1.8682 s
+
+MSELoss() evaluated on 35 test data points: 0.829964
+Specific cases
+
+
+Total training time: 2.2475 s
+
+MSELoss() evaluated on 35 test data points: 0.696691
+Specific cases
+
+
+Total training time: 1.9380 s
+
+MSELoss() evaluated on 35 test data points: 0.582539
+Specific cases
+
+
+Total training time: 2.0915 s
+
+MSELoss() evaluated on 35 test data points: 0.529255
+Specific cases
+
+
+Total training time: 1.9910 s
+
+MSELoss() evaluated on 35 test data points: 0.506591
+Specific cases
+
+
+Total training time: 1.6531 s
+
+MSELoss() evaluated on 35 test data points: 0.476814
+Specific cases
+
+
+Total training time: 2.2017 s
+
+MSELoss() evaluated on 35 test data points: 0.413213
+Specific cases
+
+Starting inner loop 2
+(318, 716) (35, 716)
+
+Total training time: 1.8127 s
+
+MSELoss() evaluated on 35 test data points: 0.944841
+Specific cases
+
+
+Total training time: 1.7654 s
+
+MSELoss() evaluated on 35 test data points: 0.639452
+Specific cases
+
+
+Total training time: 2.2253 s
+
+MSELoss() evaluated on 35 test data points: 0.540105
+Specific cases
+
+
+Total training time: 2.0517 s
+
+MSELoss() evaluated on 35 test data points: 0.584809
+Specific cases
+
+
+Total training time: 2.3829 s
+
+MSELoss() evaluated on 35 test data points: 0.566261
+Specific cases
+
+
+Total training time: 1.7861 s
+
+MSELoss() evaluated on 35 test data points: 0.490695
+Specific cases
+
+
+Total training time: 2.2224 s
+
+MSELoss() evaluated on 35 test data points: 0.497924
+Specific cases
+
+Starting inner loop 3
+(318, 716) (35, 716)
+
+Total training time: 2.4317 s
+
+MSELoss() evaluated on 35 test data points: 0.456817
+Specific cases
+
+
+Total training time: 2.3217 s
+
+MSELoss() evaluated on 35 test data points: 0.340667
+Specific cases
+
+
+Total training time: 2.4915 s
+
+MSELoss() evaluated on 35 test data points: 0.235079
+Specific cases
+
+
+Total training time: 1.8556 s
+
+MSELoss() evaluated on 35 test data points: 0.299842
+Specific cases
+
+
+Total training time: 2.3211 s
+
+MSELoss() evaluated on 35 test data points: 0.283773
+Specific cases
+
+
+Total training time: 1.9692 s
+
+MSELoss() evaluated on 35 test data points: 0.249642
+Specific cases
+
+
+Total training time: 2.1964 s
+
+MSELoss() evaluated on 35 test data points: 0.210435
+Specific cases
+
+Starting inner loop 4
+(318, 716) (35, 716)
+
+Total training time: 2.2615 s
+
+MSELoss() evaluated on 35 test data points: 0.799073
+Specific cases
+
+
+Total training time: 2.4362 s
+
+MSELoss() evaluated on 35 test data points: 0.554782
+Specific cases
+
+
+Total training time: 1.9236 s
+
+MSELoss() evaluated on 35 test data points: 0.468763
+Specific cases
+
+
+Total training time: 1.7069 s
+
+MSELoss() evaluated on 35 test data points: 0.503579
+Specific cases
+
+
+Total training time: 1.8137 s
+
+MSELoss() evaluated on 35 test data points: 0.577318
+Specific cases
+
+
+Total training time: 2.0735 s
+
+MSELoss() evaluated on 35 test data points: 0.453856
+Specific cases
+
+
+Total training time: 2.2125 s
+
+MSELoss() evaluated on 35 test data points: 0.473387
+Specific cases
+
+Starting inner loop 5
+(318, 716) (35, 716)
+
+Total training time: 1.8565 s
+
+MSELoss() evaluated on 35 test data points: 0.461117
+Specific cases
+
+
+Total training time: 2.1485 s
+
+MSELoss() evaluated on 35 test data points: 0.341387
+Specific cases
+
+
+Total training time: 1.8927 s
+
+MSELoss() evaluated on 35 test data points: 0.215284
+Specific cases
+
+
+Total training time: 2.3823 s
+
+MSELoss() evaluated on 35 test data points: 0.143032
+Specific cases
+
+
+Total training time: 2.4854 s
+
+MSELoss() evaluated on 35 test data points: 0.219525
+Specific cases
+
+
+Total training time: 1.9401 s
+
+MSELoss() evaluated on 35 test data points: 0.205407
+Specific cases
+
+
+Total training time: 2.3530 s
+
+MSELoss() evaluated on 35 test data points: 0.197534
+Specific cases
+
+Starting inner loop 6
+(318, 716) (35, 716)
+
+Total training time: 2.5439 s
+
+MSELoss() evaluated on 35 test data points: 0.371537
+Specific cases
+
+
+Total training time: 2.8768 s
+
+MSELoss() evaluated on 35 test data points: 0.347658
+Specific cases
+
+
+Total training time: 1.9165 s
+
+MSELoss() evaluated on 35 test data points: 0.359293
+Specific cases
+
+
+Total training time: 2.1362 s
+
+MSELoss() evaluated on 35 test data points: 0.416421
+Specific cases
+
+
+Total training time: 2.4036 s
+
+MSELoss() evaluated on 35 test data points: 0.383104
+Specific cases
+
+
+Total training time: 2.2876 s
+
+MSELoss() evaluated on 35 test data points: 0.339431
+Specific cases
+
+
+Total training time: 2.2751 s
+
+MSELoss() evaluated on 35 test data points: 0.309516
+Specific cases
+
+Starting inner loop 7
+(318, 716) (35, 716)
+
+Total training time: 1.7513 s
+
+MSELoss() evaluated on 35 test data points: 0.611023
+Specific cases
+
+
+Total training time: 2.2579 s
+
+MSELoss() evaluated on 35 test data points: 0.420962
+Specific cases
+
+
+Total training time: 1.7015 s
+
+MSELoss() evaluated on 35 test data points: 0.314192
+Specific cases
+
+
+Total training time: 1.7973 s
+
+MSELoss() evaluated on 35 test data points: 0.328660
+Specific cases
+
+
+Total training time: 2.0956 s
+
+MSELoss() evaluated on 35 test data points: 0.288716
+Specific cases
+
+
+Total training time: 2.1463 s
+
+MSELoss() evaluated on 35 test data points: 0.343402
+Specific cases
+
+
+Total training time: 2.2544 s
+
+MSELoss() evaluated on 35 test data points: 0.350291
+Specific cases
+
+Starting inner loop 8
+(318, 716) (35, 716)
+
+Total training time: 1.9503 s
+
+MSELoss() evaluated on 35 test data points: 0.420262
+Specific cases
+
+
+Total training time: 2.5920 s
+
+MSELoss() evaluated on 35 test data points: 0.496542
+Specific cases
+
+
+Total training time: 2.0015 s
+
+MSELoss() evaluated on 35 test data points: 0.418563
+Specific cases
+
+
+Total training time: 2.0395 s
+
+MSELoss() evaluated on 35 test data points: 0.381584
+Specific cases
+
+
+Total training time: 1.9482 s
+
+MSELoss() evaluated on 35 test data points: 0.385104
+Specific cases
+
+
+Total training time: 2.9503 s
+
+MSELoss() evaluated on 35 test data points: 0.352007
+Specific cases
+
+
+Total training time: 2.4663 s
+
+MSELoss() evaluated on 35 test data points: 0.328608
+Specific cases
+
+Starting inner loop 9
+(318, 716) (35, 716)
+
+Total training time: 2.6036 s
+
+MSELoss() evaluated on 35 test data points: 0.841714
+Specific cases
+
+
+Total training time: 2.0261 s
+
+MSELoss() evaluated on 35 test data points: 0.603287
+Specific cases
+
+
+Total training time: 2.1885 s
+
+MSELoss() evaluated on 35 test data points: 0.624783
+Specific cases
+
+
+Total training time: 2.2051 s
+
+MSELoss() evaluated on 35 test data points: 0.651290
+Specific cases
+
+
+Total training time: 1.9941 s
+
+MSELoss() evaluated on 35 test data points: 0.600410
+Specific cases
+
+
+Total training time: 1.8188 s
+
+MSELoss() evaluated on 35 test data points: 0.655235
+Specific cases
+
+
+Total training time: 2.2139 s
+
+MSELoss() evaluated on 35 test data points: 0.605081
+Specific cases
+
+
+Total training time: 3.4566 s
+
+MSELoss() evaluated on 39 test data points: 1.309838
+Specific cases
+
+Starting outer loop 1
+Starting inner loop 0
+(318, 716) (35, 716)
+
+Total training time: 1.7019 s
+
+MSELoss() evaluated on 35 test data points: 2.298039
+Specific cases
+
+
+Total training time: 1.6572 s
+
+MSELoss() evaluated on 35 test data points: 1.537622
+Specific cases
+
+
+Total training time: 1.5963 s
+
+MSELoss() evaluated on 35 test data points: 1.644571
+Specific cases
+
+
+Total training time: 1.9028 s
+
+MSELoss() evaluated on 35 test data points: 1.591638
+Specific cases
+
+
+Total training time: 2.0531 s
+
+MSELoss() evaluated on 35 test data points: 1.459301
+Specific cases
+
+
+Total training time: 2.0198 s
+
+MSELoss() evaluated on 35 test data points: 1.444109
+Specific cases
+
+
+Total training time: 2.2378 s
+
+MSELoss() evaluated on 35 test data points: 1.428202
+Specific cases
+
+Starting inner loop 1
+(318, 716) (35, 716)
+
+Total training time: 1.7467 s
+
+MSELoss() evaluated on 35 test data points: 0.833063
+Specific cases
+
+
+Total training time: 1.6126 s
+
+MSELoss() evaluated on 35 test data points: 0.393997
+Specific cases
+
+
+Total training time: 2.0459 s
+
+MSELoss() evaluated on 35 test data points: 0.489527
+Specific cases
+
+
+Total training time: 1.6842 s
+
+MSELoss() evaluated on 35 test data points: 0.296136
+Specific cases
+
+
+Total training time: 1.8964 s
+
+MSELoss() evaluated on 35 test data points: 0.315350
+Specific cases
+
+
+Total training time: 1.7910 s
+
+MSELoss() evaluated on 35 test data points: 0.307390
+Specific cases
+
+
+Total training time: 2.2300 s
+
+MSELoss() evaluated on 35 test data points: 0.279432
+Specific cases
+
+Starting inner loop 2
+(318, 716) (35, 716)
+
+Total training time: 1.5188 s
+
+MSELoss() evaluated on 35 test data points: 0.866163
+Specific cases
+
+
+Total training time: 1.5573 s
+
+MSELoss() evaluated on 35 test data points: 0.417940
+Specific cases
+
+
+Total training time: 1.6796 s
+
+MSELoss() evaluated on 35 test data points: 0.364339
+Specific cases
+
+
+Total training time: 2.3143 s
+
+MSELoss() evaluated on 35 test data points: 0.421046
+Specific cases
+
+
+Total training time: 1.5251 s
+
+MSELoss() evaluated on 35 test data points: 0.348924
+Specific cases
+
+
+Total training time: 1.9693 s
+
+MSELoss() evaluated on 35 test data points: 0.375029
+Specific cases
+
+
+Total training time: 2.1997 s
+
+MSELoss() evaluated on 35 test data points: 0.348530
+Specific cases
+
+Starting inner loop 3
+(318, 716) (35, 716)
+
+Total training time: 2.4139 s
+
+MSELoss() evaluated on 35 test data points: 0.696457
+Specific cases
+
+
+Total training time: 2.2871 s
+
+MSELoss() evaluated on 35 test data points: 0.691399
+Specific cases
+
+
+Total training time: 2.2897 s
+
+MSELoss() evaluated on 35 test data points: 0.367172
+Specific cases
+
+
+Total training time: 2.0431 s
+
+MSELoss() evaluated on 35 test data points: 0.369583
+Specific cases
+
+
+Total training time: 2.3210 s
+
+MSELoss() evaluated on 35 test data points: 0.328141
+Specific cases
+
+
+Total training time: 2.2224 s
+
+MSELoss() evaluated on 35 test data points: 0.467212
+Specific cases
+
+
+Total training time: 2.2278 s
+
+MSELoss() evaluated on 35 test data points: 0.350257
+Specific cases
+
+Starting inner loop 4
+(318, 716) (35, 716)
+
+Total training time: 2.4803 s
+
+MSELoss() evaluated on 35 test data points: 0.680119
+Specific cases
+
+
+Total training time: 1.9018 s
+
+MSELoss() evaluated on 35 test data points: 0.659542
+Specific cases
+
+
+Total training time: 1.7481 s
+
+MSELoss() evaluated on 35 test data points: 0.480421
+Specific cases
+
+
+Total training time: 2.1255 s
+
+MSELoss() evaluated on 35 test data points: 0.363012
+Specific cases
+
+
+Total training time: 1.8204 s
+
+MSELoss() evaluated on 35 test data points: 0.323263
+Specific cases
+
+
+Total training time: 2.2309 s
+
+MSELoss() evaluated on 35 test data points: 0.333258
+Specific cases
+
+
+Total training time: 2.2482 s
+
+MSELoss() evaluated on 35 test data points: 0.277441
+Specific cases
+
+Starting inner loop 5
+(318, 716) (35, 716)
+
+Total training time: 1.8689 s
+
+MSELoss() evaluated on 35 test data points: 0.385509
+Specific cases
+
+
+Total training time: 2.2028 s
+
+MSELoss() evaluated on 35 test data points: 0.346441
+Specific cases
+
+
+Total training time: 1.6689 s
+
+MSELoss() evaluated on 35 test data points: 0.318131
+Specific cases
+
+
+Total training time: 1.8210 s
+
+MSELoss() evaluated on 35 test data points: 0.227174
+Specific cases
+
+
+Total training time: 1.9298 s
+
+MSELoss() evaluated on 35 test data points: 0.153258
+Specific cases
+
+
+Total training time: 1.6835 s
+
+MSELoss() evaluated on 35 test data points: 0.204681
+Specific cases
+
+
+Total training time: 2.2819 s
+
+MSELoss() evaluated on 35 test data points: 0.181619
+Specific cases
+
+Starting inner loop 6
+(318, 716) (35, 716)
+
+Total training time: 1.6903 s
+
+MSELoss() evaluated on 35 test data points: 0.575110
+Specific cases
+
+
+Total training time: 2.1296 s
+
+MSELoss() evaluated on 35 test data points: 0.521184
+Specific cases
+
+
+Total training time: 1.7056 s
+
+MSELoss() evaluated on 35 test data points: 0.450639
+Specific cases
+
+
+Total training time: 2.0660 s
+
+MSELoss() evaluated on 35 test data points: 0.413402
+Specific cases
+
+
+Total training time: 1.9930 s
+
+MSELoss() evaluated on 35 test data points: 0.389978
+Specific cases
+
+
+Total training time: 1.8645 s
+
+MSELoss() evaluated on 35 test data points: 0.428636
+Specific cases
+
+
+Total training time: 2.3187 s
+
+MSELoss() evaluated on 35 test data points: 0.404517
+Specific cases
+
+Starting inner loop 7
+(318, 716) (35, 716)
+
+Total training time: 1.9828 s
+
+MSELoss() evaluated on 35 test data points: 0.800464
+Specific cases
+
+
+Total training time: 1.9747 s
+
+MSELoss() evaluated on 35 test data points: 0.432604
+Specific cases
+
+
+Total training time: 2.4747 s
+
+MSELoss() evaluated on 35 test data points: 0.366685
+Specific cases
+
+
+Total training time: 1.9584 s
+
+MSELoss() evaluated on 35 test data points: 0.229635
+Specific cases
+
+
+Total training time: 2.5537 s
+
+MSELoss() evaluated on 35 test data points: 0.198649
+Specific cases
+
+
+Total training time: 2.2074 s
+
+MSELoss() evaluated on 35 test data points: 0.157362
+Specific cases
+
+
+Total training time: 2.5294 s
+
+MSELoss() evaluated on 35 test data points: 0.236763
+Specific cases
+
+Starting inner loop 8
+(318, 716) (35, 716)
+
+Total training time: 2.1529 s
+
+MSELoss() evaluated on 35 test data points: 0.627443
+Specific cases
+
+
+Total training time: 1.8726 s
+
+MSELoss() evaluated on 35 test data points: 0.670504
+Specific cases
+
+
+Total training time: 1.9425 s
+
+MSELoss() evaluated on 35 test data points: 0.641393
+Specific cases
+
+
+Total training time: 1.9420 s
+
+MSELoss() evaluated on 35 test data points: 0.511936
+Specific cases
+
+
+Total training time: 1.7718 s
+
+MSELoss() evaluated on 35 test data points: 0.550043
+Specific cases
+
+
+Total training time: 2.4286 s
+
+MSELoss() evaluated on 35 test data points: 0.569453
+Specific cases
+
+
+Total training time: 2.5361 s
+
+MSELoss() evaluated on 35 test data points: 0.474162
+Specific cases
+
+Starting inner loop 9
+(318, 716) (35, 716)
+
+Total training time: 1.6634 s
+
+MSELoss() evaluated on 35 test data points: 0.921074
+Specific cases
+
+
+Total training time: 1.9050 s
+
+MSELoss() evaluated on 35 test data points: 0.827834
+Specific cases
+
+
+Total training time: 2.1524 s
+
+MSELoss() evaluated on 35 test data points: 0.890679
+Specific cases
+
+
+Total training time: 2.2301 s
+
+MSELoss() evaluated on 35 test data points: 0.805760
+Specific cases
+
+
+Total training time: 2.2023 s
+
+MSELoss() evaluated on 35 test data points: 0.801346
+Specific cases
+
+
+Total training time: 1.6830 s
+
+MSELoss() evaluated on 35 test data points: 0.778563
+Specific cases
+
+
+Total training time: 2.2622 s
+
+MSELoss() evaluated on 35 test data points: 0.761154
+Specific cases
+
+
+Total training time: 3.5610 s
+
+MSELoss() evaluated on 39 test data points: 0.167235
+Specific cases
+
+Starting outer loop 2
+Starting inner loop 0
+(318, 716) (35, 716)
+
+Total training time: 2.3419 s
+
+MSELoss() evaluated on 35 test data points: 2.190624
+Specific cases
+
+
+Total training time: 2.0501 s
+
+MSELoss() evaluated on 35 test data points: 1.838885
+Specific cases
+
+
+Total training time: 2.1653 s
+
+MSELoss() evaluated on 35 test data points: 1.911933
+Specific cases
+
+
+Total training time: 2.0927 s
+
+MSELoss() evaluated on 35 test data points: 1.695955
+Specific cases
+
+
+Total training time: 1.8604 s
+
+MSELoss() evaluated on 35 test data points: 1.765529
+Specific cases
+
+
+Total training time: 1.8638 s
+
+MSELoss() evaluated on 35 test data points: 1.769523
+Specific cases
+
+
+Total training time: 2.2340 s
+
+MSELoss() evaluated on 35 test data points: 1.562054
+Specific cases
+
+Starting inner loop 1
+(318, 716) (35, 716)
+
+Total training time: 2.4197 s
+
+MSELoss() evaluated on 35 test data points: 0.445569
+Specific cases
+
+
+Total training time: 3.0593 s
+
+MSELoss() evaluated on 35 test data points: 0.387839
+Specific cases
+
+
+Total training time: 1.7441 s
+
+MSELoss() evaluated on 35 test data points: 0.282585
+Specific cases
+
+
+Total training time: 2.0535 s
+
+MSELoss() evaluated on 35 test data points: 0.213128
+Specific cases
+
+
+Total training time: 2.0359 s
+
+MSELoss() evaluated on 35 test data points: 0.153910
+Specific cases
+
+
+Total training time: 1.9877 s
+
+MSELoss() evaluated on 35 test data points: 0.158804
+Specific cases
+
+
+Total training time: 2.5467 s
+
+MSELoss() evaluated on 35 test data points: 0.138665
+Specific cases
+
+Starting inner loop 2
+(318, 716) (35, 716)
+
+Total training time: 2.8072 s
+
+MSELoss() evaluated on 35 test data points: 0.371304
+Specific cases
+
+
+Total training time: 2.4894 s
+
+MSELoss() evaluated on 35 test data points: 0.246470
+Specific cases
+
+
+Total training time: 2.4470 s
+
+MSELoss() evaluated on 35 test data points: 0.173566
+Specific cases
+
+
+Total training time: 2.0157 s
+
+MSELoss() evaluated on 35 test data points: 0.147069
+Specific cases
+
+
+Total training time: 1.5573 s
+
+MSELoss() evaluated on 35 test data points: 0.122916
+Specific cases
+
+
+Total training time: 1.6357 s
+
+MSELoss() evaluated on 35 test data points: 0.080545
+Specific cases
+
+
+Total training time: 2.2639 s
+
+MSELoss() evaluated on 35 test data points: 0.145193
+Specific cases
+
+Starting inner loop 3
+(318, 716) (35, 716)
+
+Total training time: 1.6024 s
+
+MSELoss() evaluated on 35 test data points: 0.486099
+Specific cases
+
+
+Total training time: 1.7660 s
+
+MSELoss() evaluated on 35 test data points: 0.339275
+Specific cases
+
+
+Total training time: 1.8690 s
+
+MSELoss() evaluated on 35 test data points: 0.415234
+Specific cases
+
+
+Total training time: 1.8928 s
+
+MSELoss() evaluated on 35 test data points: 0.349333
+Specific cases
+
+
+Total training time: 1.9577 s
+
+MSELoss() evaluated on 35 test data points: 0.251946
+Specific cases
+
+
+Total training time: 2.1917 s
+
+MSELoss() evaluated on 35 test data points: 0.324742
+Specific cases
+
+
+Total training time: 2.8193 s
+
+MSELoss() evaluated on 35 test data points: 0.280011
+Specific cases
+
+Starting inner loop 4
+(318, 716) (35, 716)
+
+Total training time: 1.8896 s
+
+MSELoss() evaluated on 35 test data points: 1.252192
+Specific cases
+
+
+Total training time: 1.8791 s
+
+MSELoss() evaluated on 35 test data points: 0.782768
+Specific cases
+
+
+Total training time: 1.8704 s
+
+MSELoss() evaluated on 35 test data points: 0.604089
+Specific cases
+
+
+Total training time: 1.8987 s
+
+MSELoss() evaluated on 35 test data points: 0.555926
+Specific cases
+
+
+Total training time: 1.9471 s
+
+MSELoss() evaluated on 35 test data points: 0.441408
+Specific cases
+
+
+Total training time: 2.3171 s
+
+MSELoss() evaluated on 35 test data points: 0.457905
+Specific cases
+
+
+Total training time: 2.8682 s
+
+MSELoss() evaluated on 35 test data points: 0.389629
+Specific cases
+
+Starting inner loop 5
+(318, 716) (35, 716)
+
+Total training time: 2.0175 s
+
+MSELoss() evaluated on 35 test data points: 0.376023
+Specific cases
+
+
+Total training time: 1.8796 s
+
+MSELoss() evaluated on 35 test data points: 0.242885
+Specific cases
+
+
+Total training time: 1.8932 s
+
+MSELoss() evaluated on 35 test data points: 0.230795
+Specific cases
+
+
+Total training time: 1.9624 s
+
+MSELoss() evaluated on 35 test data points: 0.195064
+Specific cases
+
+
+Total training time: 2.2879 s
+
+MSELoss() evaluated on 35 test data points: 0.136922
+Specific cases
+
+
+Total training time: 2.0412 s
+
+MSELoss() evaluated on 35 test data points: 0.161657
+Specific cases
+
+
+Total training time: 2.5401 s
+
+MSELoss() evaluated on 35 test data points: 0.246816
+Specific cases
+
+Starting inner loop 6
+(318, 716) (35, 716)
+
+Total training time: 1.6930 s
+
+MSELoss() evaluated on 35 test data points: 0.483907
+Specific cases
+
+
+Total training time: 2.4187 s
+
+MSELoss() evaluated on 35 test data points: 0.470908
+Specific cases
+
+
+Total training time: 1.7526 s
+
+MSELoss() evaluated on 35 test data points: 0.464036
+Specific cases
+
+
+Total training time: 1.9519 s
+
+MSELoss() evaluated on 35 test data points: 0.431505
+Specific cases
+
+
+Total training time: 2.3818 s
+
+MSELoss() evaluated on 35 test data points: 0.376667
+Specific cases
+
+
+Total training time: 1.9211 s
+
+MSELoss() evaluated on 35 test data points: 0.310686
+Specific cases
+
+
+Total training time: 2.2142 s
+
+MSELoss() evaluated on 35 test data points: 0.355122
+Specific cases
+
+Starting inner loop 7
+(318, 716) (35, 716)
+
+Total training time: 2.0097 s
+
+MSELoss() evaluated on 35 test data points: 0.733277
+Specific cases
+
+
+Total training time: 2.6715 s
+
+MSELoss() evaluated on 35 test data points: 0.444104
+Specific cases
+
+
+Total training time: 2.2733 s
+
+MSELoss() evaluated on 35 test data points: 0.408614
+Specific cases
+
+
+Total training time: 2.2389 s
+
+MSELoss() evaluated on 35 test data points: 0.227383
+Specific cases
+
+
+Total training time: 2.3619 s
+
+MSELoss() evaluated on 35 test data points: 0.330040
+Specific cases
+
+
+Total training time: 2.1925 s
+
+MSELoss() evaluated on 35 test data points: 0.252843
+Specific cases
+
+
+Total training time: 2.2246 s
+
+MSELoss() evaluated on 35 test data points: 0.279004
+Specific cases
+
+Starting inner loop 8
+(318, 716) (35, 716)
+
+Total training time: 1.5458 s
+
+MSELoss() evaluated on 35 test data points: 0.536960
+Specific cases
+
+
+Total training time: 1.9974 s
+
+MSELoss() evaluated on 35 test data points: 0.530517
+Specific cases
+
+
+Total training time: 2.3982 s
+
+MSELoss() evaluated on 35 test data points: 0.392944
+Specific cases
+
+
+Total training time: 2.4023 s
+
+MSELoss() evaluated on 35 test data points: 0.449864
+Specific cases
+
+
+Total training time: 2.5154 s
+
+MSELoss() evaluated on 35 test data points: 0.349341
+Specific cases
+
+
+Total training time: 2.1702 s
+
+MSELoss() evaluated on 35 test data points: 0.348526
+Specific cases
+
+
+Total training time: 2.2087 s
+
+MSELoss() evaluated on 35 test data points: 0.425193
+Specific cases
+
+Starting inner loop 9
+(318, 716) (35, 716)
+
+Total training time: 1.7827 s
+
+MSELoss() evaluated on 35 test data points: 0.870457
+Specific cases
+
+
+Total training time: 2.2480 s
+
+MSELoss() evaluated on 35 test data points: 0.815529
+Specific cases
+
+
+Total training time: 2.1732 s
+
+MSELoss() evaluated on 35 test data points: 0.698721
+Specific cases
+
+
+Total training time: 2.0349 s
+
+MSELoss() evaluated on 35 test data points: 0.670354
+Specific cases
+
+
+Total training time: 2.8816 s
+
+MSELoss() evaluated on 35 test data points: 0.662852
+Specific cases
+
+
+Total training time: 2.2320 s
+
+MSELoss() evaluated on 35 test data points: 0.667832
+Specific cases
+
+
+Total training time: 2.3542 s
+
+MSELoss() evaluated on 35 test data points: 0.639124
+Specific cases
+
+
+Total training time: 3.7337 s
+
+MSELoss() evaluated on 39 test data points: 0.551688
+Specific cases
+
+Starting outer loop 3
+Starting inner loop 0
+(318, 716) (35, 716)
+
+Total training time: 2.3449 s
+
+MSELoss() evaluated on 35 test data points: 2.463166
+Specific cases
+
+
+Total training time: 2.2542 s
+
+MSELoss() evaluated on 35 test data points: 1.727305
+Specific cases
+
+
+Total training time: 2.2221 s
+
+MSELoss() evaluated on 35 test data points: 1.718536
+Specific cases
+
+
+Total training time: 1.9958 s
+
+MSELoss() evaluated on 35 test data points: 1.548591
+Specific cases
+
+
+Total training time: 2.5051 s
+
+MSELoss() evaluated on 35 test data points: 1.534969
+Specific cases
+
+
+Total training time: 2.1644 s
+
+MSELoss() evaluated on 35 test data points: 1.515907
+Specific cases
+
+
+Total training time: 2.2147 s
+
+MSELoss() evaluated on 35 test data points: 1.464658
+Specific cases
+
+Starting inner loop 1
+(318, 716) (35, 716)
+
+Total training time: 1.6748 s
+
+MSELoss() evaluated on 35 test data points: 0.517243
+Specific cases
+
+
+Total training time: 1.8076 s
+
+MSELoss() evaluated on 35 test data points: 0.356210
+Specific cases
+
+
+Total training time: 2.6183 s
+
+MSELoss() evaluated on 35 test data points: 0.230753
+Specific cases
+
+
+Total training time: 2.6115 s
+
+MSELoss() evaluated on 35 test data points: 0.236954
+Specific cases
+
+
+Total training time: 2.5221 s
+
+MSELoss() evaluated on 35 test data points: 0.160880
+Specific cases
+
+
+Total training time: 2.2833 s
+
+MSELoss() evaluated on 35 test data points: 0.262144
+Specific cases
+
+
+Total training time: 2.2640 s
+
+MSELoss() evaluated on 35 test data points: 0.184261
+Specific cases
+
+Starting inner loop 2
+(318, 716) (35, 716)
+
+Total training time: 2.0442 s
+
+MSELoss() evaluated on 35 test data points: 0.724783
+Specific cases
+
+
+Total training time: 2.1397 s
+
+MSELoss() evaluated on 35 test data points: 0.280458
+Specific cases
+
+
+Total training time: 1.8736 s
+
+MSELoss() evaluated on 35 test data points: 0.319836
+Specific cases
+
+
+Total training time: 2.3411 s
+
+MSELoss() evaluated on 35 test data points: 0.288272
+Specific cases
+
+
+Total training time: 1.8733 s
+
+MSELoss() evaluated on 35 test data points: 0.215368
+Specific cases
+
+
+Total training time: 1.9564 s
+
+MSELoss() evaluated on 35 test data points: 0.317765
+Specific cases
+
+
+Total training time: 2.2286 s
+
+MSELoss() evaluated on 35 test data points: 0.219942
+Specific cases
+
+Starting inner loop 3
+(318, 716) (35, 716)
+
+Total training time: 1.8801 s
+
+MSELoss() evaluated on 35 test data points: 0.717351
+Specific cases
+
+
+Total training time: 2.4108 s
+
+MSELoss() evaluated on 35 test data points: 0.314076
+Specific cases
+
+
+Total training time: 2.1759 s
+
+MSELoss() evaluated on 35 test data points: 0.215852
+Specific cases
+
+
+Total training time: 1.7155 s
+
+MSELoss() evaluated on 35 test data points: 0.225122
+Specific cases
+
+
+Total training time: 1.6978 s
+
+MSELoss() evaluated on 35 test data points: 0.220463
+Specific cases
+
+
+Total training time: 2.1022 s
+
+MSELoss() evaluated on 35 test data points: 0.174392
+Specific cases
+
+
+Total training time: 2.2494 s
+
+MSELoss() evaluated on 35 test data points: 0.211014
+Specific cases
+
+Starting inner loop 4
+(318, 716) (35, 716)
+
+Total training time: 2.0130 s
+
+MSELoss() evaluated on 35 test data points: 0.897701
+Specific cases
+
+
+Total training time: 2.4678 s
+
+MSELoss() evaluated on 35 test data points: 0.579236
+Specific cases
+
+
+Total training time: 2.2053 s
+
+MSELoss() evaluated on 35 test data points: 0.518519
+Specific cases
+
+
+Total training time: 2.1968 s
+
+MSELoss() evaluated on 35 test data points: 0.392964
+Specific cases
+
+
+Total training time: 2.1984 s
+
+MSELoss() evaluated on 35 test data points: 0.347376
+Specific cases
+
+
+Total training time: 1.6988 s
+
+MSELoss() evaluated on 35 test data points: 0.365189
+Specific cases
+
+
+Total training time: 2.2099 s
+
+MSELoss() evaluated on 35 test data points: 0.389093
+Specific cases
+
+Starting inner loop 5
+(318, 716) (35, 716)
+
+Total training time: 1.7075 s
+
+MSELoss() evaluated on 35 test data points: 0.473543
+Specific cases
+
+
+Total training time: 1.9259 s
+
+MSELoss() evaluated on 35 test data points: 0.583832
+Specific cases
+
+
+Total training time: 1.6618 s
+
+MSELoss() evaluated on 35 test data points: 0.362197
+Specific cases
+
+
+Total training time: 2.1101 s
+
+MSELoss() evaluated on 35 test data points: 0.265126
+Specific cases
+
+
+Total training time: 2.5081 s
+
+MSELoss() evaluated on 35 test data points: 0.195289
+Specific cases
+
+
+Total training time: 1.6682 s
+
+MSELoss() evaluated on 35 test data points: 0.199309
+Specific cases
+
+
+Total training time: 2.4420 s
+
+MSELoss() evaluated on 35 test data points: 0.191191
+Specific cases
+
+Starting inner loop 6
+(318, 716) (35, 716)
+
+Total training time: 1.6514 s
+
+MSELoss() evaluated on 35 test data points: 0.540919
+Specific cases
+
+
+Total training time: 1.6208 s
+
+MSELoss() evaluated on 35 test data points: 0.581116
+Specific cases
+
+
+Total training time: 1.9144 s
+
+MSELoss() evaluated on 35 test data points: 0.478932
+Specific cases
+
+
+Total training time: 2.8213 s
+
+MSELoss() evaluated on 35 test data points: 0.472914
+Specific cases
+
+
+Total training time: 2.6188 s
+
+MSELoss() evaluated on 35 test data points: 0.396910
+Specific cases
+
+
+Total training time: 2.1913 s
+
+MSELoss() evaluated on 35 test data points: 0.401926
+Specific cases
+
+
+Total training time: 2.2150 s
+
+MSELoss() evaluated on 35 test data points: 0.399735
+Specific cases
+
+Starting inner loop 7
+(318, 716) (35, 716)
+
+Total training time: 1.7438 s
+
+MSELoss() evaluated on 35 test data points: 0.828792
+Specific cases
+
+
+Total training time: 2.2709 s
+
+MSELoss() evaluated on 35 test data points: 0.346643
+Specific cases
+
+
+Total training time: 1.7486 s
+
+MSELoss() evaluated on 35 test data points: 0.174908
+Specific cases
+
+
+Total training time: 2.0548 s
+
+MSELoss() evaluated on 35 test data points: 0.239597
+Specific cases
+
+
+Total training time: 1.6053 s
+
+MSELoss() evaluated on 35 test data points: 0.291898
+Specific cases
+
+
+Total training time: 1.8751 s
+
+MSELoss() evaluated on 35 test data points: 0.200283
+Specific cases
+
+
+Total training time: 2.2710 s
+
+MSELoss() evaluated on 35 test data points: 0.243846
+Specific cases
+
+Starting inner loop 8
+(318, 716) (35, 716)
+
+Total training time: 1.8607 s
+
+MSELoss() evaluated on 35 test data points: 0.846152
+Specific cases
+
+
+Total training time: 1.9654 s
+
+MSELoss() evaluated on 35 test data points: 0.486194
+Specific cases
+
+
+Total training time: 2.4502 s
+
+MSELoss() evaluated on 35 test data points: 0.590570
+Specific cases
+
+
+Total training time: 2.6494 s
+
+MSELoss() evaluated on 35 test data points: 0.441755
+Specific cases
+
+
+Total training time: 2.0569 s
+
+MSELoss() evaluated on 35 test data points: 0.559292
+Specific cases
+
+
+Total training time: 1.9519 s
+
+MSELoss() evaluated on 35 test data points: 0.410068
+Specific cases
+
+
+Total training time: 2.2450 s
+
+MSELoss() evaluated on 35 test data points: 0.424407
+Specific cases
+
+Starting inner loop 9
+(318, 716) (35, 716)
+
+Total training time: 2.0139 s
+
+MSELoss() evaluated on 35 test data points: 1.023444
+Specific cases
+
+
+Total training time: 2.0441 s
+
+MSELoss() evaluated on 35 test data points: 0.950331
+Specific cases
+
+
+Total training time: 2.2765 s
+
+MSELoss() evaluated on 35 test data points: 0.885740
+Specific cases
+
+
+Total training time: 2.4702 s
+
+MSELoss() evaluated on 35 test data points: 0.759876
+Specific cases
+
+
+Total training time: 2.4536 s
+
+MSELoss() evaluated on 35 test data points: 0.754797
+Specific cases
+
+
+Total training time: 2.1236 s
+
+MSELoss() evaluated on 35 test data points: 0.826349
+Specific cases
+
+
+Total training time: 2.2308 s
+
+MSELoss() evaluated on 35 test data points: 0.762052
+Specific cases
+
+
+Total training time: 3.5486 s
+
+MSELoss() evaluated on 39 test data points: 0.119112
+Specific cases
+
+Starting outer loop 4
+Starting inner loop 0
+(318, 716) (35, 716)
+
+Total training time: 1.5126 s
+
+MSELoss() evaluated on 35 test data points: 2.065026
+Specific cases
+
+
+Total training time: 1.8065 s
+
+MSELoss() evaluated on 35 test data points: 1.595955
+Specific cases
+
+
+Total training time: 2.4325 s
+
+MSELoss() evaluated on 35 test data points: 1.373945
+Specific cases
+
+
+Total training time: 1.6431 s
+
+MSELoss() evaluated on 35 test data points: 1.454791
+Specific cases
+
+
+Total training time: 2.0257 s
+
+MSELoss() evaluated on 35 test data points: 1.465430
+Specific cases
+
+
+Total training time: 1.7254 s
+
+MSELoss() evaluated on 35 test data points: 1.385574
+Specific cases
+
+
+Total training time: 2.2532 s
+
+MSELoss() evaluated on 35 test data points: 1.367149
+Specific cases
+
+Starting inner loop 1
+(318, 716) (35, 716)
+
+Total training time: 1.6678 s
+
+MSELoss() evaluated on 35 test data points: 0.319115
+Specific cases
+
+
+Total training time: 1.9997 s
+
+MSELoss() evaluated on 35 test data points: 0.336112
+Specific cases
+
+
+Total training time: 2.3973 s
+
+MSELoss() evaluated on 35 test data points: 0.228967
+Specific cases
+
+
+Total training time: 1.8734 s
+
+MSELoss() evaluated on 35 test data points: 0.206119
+Specific cases
+
+
+Total training time: 1.6911 s
+
+MSELoss() evaluated on 35 test data points: 0.153531
+Specific cases
+
+
+Total training time: 1.7996 s
+
+MSELoss() evaluated on 35 test data points: 0.270908
+Specific cases
+
+
+Total training time: 2.2555 s
+
+MSELoss() evaluated on 35 test data points: 0.201314
+Specific cases
+
+Starting inner loop 2
+(318, 716) (35, 716)
+
+Total training time: 2.4723 s
+
+MSELoss() evaluated on 35 test data points: 1.169853
+Specific cases
+
+
+Total training time: 1.8223 s
+
+MSELoss() evaluated on 35 test data points: 0.566580
+Specific cases
+
+
+Total training time: 1.8246 s
+
+MSELoss() evaluated on 35 test data points: 0.455967
+Specific cases
+
+
+Total training time: 1.7501 s
+
+MSELoss() evaluated on 35 test data points: 0.274148
+Specific cases
+
+
+Total training time: 1.7313 s
+
+MSELoss() evaluated on 35 test data points: 0.219277
+Specific cases
+
+
+Total training time: 1.8986 s
+
+MSELoss() evaluated on 35 test data points: 0.303617
+Specific cases
+
+
+Total training time: 2.2393 s
+
+MSELoss() evaluated on 35 test data points: 0.250688
+Specific cases
+
+Starting inner loop 3
+(318, 716) (35, 716)
+
+Total training time: 1.6690 s
+
+MSELoss() evaluated on 35 test data points: 0.947876
+Specific cases
+
+
+Total training time: 1.9946 s
+
+MSELoss() evaluated on 35 test data points: 0.556156
+Specific cases
+
+
+Total training time: 2.5924 s
+
+MSELoss() evaluated on 35 test data points: 0.555525
+Specific cases
+
+
+Total training time: 2.2879 s
+
+MSELoss() evaluated on 35 test data points: 0.590559
+Specific cases
+
+
+Total training time: 2.1367 s
+
+MSELoss() evaluated on 35 test data points: 0.535038
+Specific cases
+
+
+Total training time: 1.9040 s
+
+MSELoss() evaluated on 35 test data points: 0.516425
+Specific cases
+
+
+Total training time: 2.2071 s
+
+MSELoss() evaluated on 35 test data points: 0.452097
+Specific cases
+
+Starting inner loop 4
+(318, 716) (35, 716)
+
+Total training time: 1.8176 s
+
+MSELoss() evaluated on 35 test data points: 0.710262
+Specific cases
+
+
+Total training time: 2.1746 s
+
+MSELoss() evaluated on 35 test data points: 0.653709
+Specific cases
+
+
+Total training time: 1.6077 s
+
+MSELoss() evaluated on 35 test data points: 0.451162
+Specific cases
+
+
+Total training time: 2.6751 s
+
+MSELoss() evaluated on 35 test data points: 0.385428
+Specific cases
+
+
+Total training time: 1.7457 s
+
+MSELoss() evaluated on 35 test data points: 0.442307
+Specific cases
+
+
+Total training time: 1.7245 s
+
+MSELoss() evaluated on 35 test data points: 0.378023
+Specific cases
+
+
+Total training time: 2.3283 s
+
+MSELoss() evaluated on 35 test data points: 0.489423
+Specific cases
+
+Starting inner loop 5
+(318, 716) (35, 716)
+
+Total training time: 1.9702 s
+
+MSELoss() evaluated on 35 test data points: 0.372124
+Specific cases
+
+
+Total training time: 1.6933 s
+
+MSELoss() evaluated on 35 test data points: 0.334516
+Specific cases
+
+
+Total training time: 1.5204 s
+
+MSELoss() evaluated on 35 test data points: 0.370440
+Specific cases
+
+
+Total training time: 1.5399 s
+
+MSELoss() evaluated on 35 test data points: 0.200560
+Specific cases
+
+
+Total training time: 1.5549 s
+
+MSELoss() evaluated on 35 test data points: 0.183257
+Specific cases
+
+
+Total training time: 1.6893 s
+
+MSELoss() evaluated on 35 test data points: 0.158056
+Specific cases
+
+
+Total training time: 2.2762 s
+
+MSELoss() evaluated on 35 test data points: 0.175797
+Specific cases
+
+Starting inner loop 6
+(318, 716) (35, 716)
+
+Total training time: 1.9955 s
+
+MSELoss() evaluated on 35 test data points: 0.637993
+Specific cases
+
+
+Total training time: 2.4368 s
+
+MSELoss() evaluated on 35 test data points: 0.737475
+Specific cases
+
+
+Total training time: 2.0082 s
+
+MSELoss() evaluated on 35 test data points: 0.501596
+Specific cases
+
+
+Total training time: 2.6070 s
+
+MSELoss() evaluated on 35 test data points: 0.469548
+Specific cases
+
+
+Total training time: 2.4866 s
+
+MSELoss() evaluated on 35 test data points: 0.480408
+Specific cases
+
+
+Total training time: 2.2550 s
+
+MSELoss() evaluated on 35 test data points: 0.428828
+Specific cases
+
+
+Total training time: 2.3829 s
+
+MSELoss() evaluated on 35 test data points: 0.475759
+Specific cases
+
+Starting inner loop 7
+(318, 716) (35, 716)
+
+Total training time: 1.7291 s
+
+MSELoss() evaluated on 35 test data points: 0.333402
+Specific cases
+
+
+Total training time: 2.0145 s
+
+MSELoss() evaluated on 35 test data points: 0.489880
+Specific cases
+
+
+Total training time: 2.0307 s
+
+MSELoss() evaluated on 35 test data points: 0.266840
+Specific cases
+
+
+Total training time: 1.7948 s
+
+MSELoss() evaluated on 35 test data points: 0.199836
+Specific cases
+
+
+Total training time: 1.9817 s
+
+MSELoss() evaluated on 35 test data points: 0.295757
+Specific cases
+
+
+Total training time: 1.7309 s
+
+MSELoss() evaluated on 35 test data points: 0.182495
+Specific cases
+
+
+Total training time: 2.2235 s
+
+MSELoss() evaluated on 35 test data points: 0.227930
+Specific cases
+
+Starting inner loop 8
+(318, 716) (35, 716)
+
+Total training time: 1.7687 s
+
+MSELoss() evaluated on 35 test data points: 0.850777
+Specific cases
+
+
+Total training time: 2.1960 s
+
+MSELoss() evaluated on 35 test data points: 0.599533
+Specific cases
+
+
+Total training time: 2.1266 s
+
+MSELoss() evaluated on 35 test data points: 0.598182
+Specific cases
+
+
+Total training time: 1.7365 s
+
+MSELoss() evaluated on 35 test data points: 0.548194
+Specific cases
+
+
+Total training time: 1.6300 s
+
+MSELoss() evaluated on 35 test data points: 0.537095
+Specific cases
+
+
+Total training time: 1.6639 s
+
+MSELoss() evaluated on 35 test data points: 0.488828
+Specific cases
+
+
+Total training time: 2.2394 s
+
+MSELoss() evaluated on 35 test data points: 0.566065
+Specific cases
+
+Starting inner loop 9
+(318, 716) (35, 716)
+
+Total training time: 1.6336 s
+
+MSELoss() evaluated on 35 test data points: 0.960031
+Specific cases
+
+
+Total training time: 1.7171 s
+
+MSELoss() evaluated on 35 test data points: 0.906539
+Specific cases
+
+
+Total training time: 2.1509 s
+
+MSELoss() evaluated on 35 test data points: 1.027133
+Specific cases
+
+
+Total training time: 2.0576 s
+
+MSELoss() evaluated on 35 test data points: 0.803978
+Specific cases
+
+
+Total training time: 1.8454 s
+
+MSELoss() evaluated on 35 test data points: 0.850102
+Specific cases
+
+
+Total training time: 1.9868 s
+
+MSELoss() evaluated on 35 test data points: 0.848364
+Specific cases
+
+
+Total training time: 2.2158 s
+
+MSELoss() evaluated on 35 test data points: 0.805731
+Specific cases
+
+
+Total training time: 2.7873 s
+
+MSELoss() evaluated on 39 test data points: 0.422946
+Specific cases
+
+Starting outer loop 5
+Starting inner loop 0
+(318, 716) (35, 716)
+
+Total training time: 1.5435 s
+
+MSELoss() evaluated on 35 test data points: 1.969015
+Specific cases
+
+
+Total training time: 2.3491 s
+
+MSELoss() evaluated on 35 test data points: 1.888391
+Specific cases
+
+
+Total training time: 2.1366 s
+
+MSELoss() evaluated on 35 test data points: 1.801345
+Specific cases
+
+
+Total training time: 1.8568 s
+
+MSELoss() evaluated on 35 test data points: 1.803912
+Specific cases
+
+
+Total training time: 1.8653 s
+
+MSELoss() evaluated on 35 test data points: 1.712784
+Specific cases
+
+
+Total training time: 1.7799 s
+
+MSELoss() evaluated on 35 test data points: 1.660247
+Specific cases
+
+
+Total training time: 2.1963 s
+
+MSELoss() evaluated on 35 test data points: 1.656146
+Specific cases
+
+Starting inner loop 1
+(318, 716) (35, 716)
+
+Total training time: 2.1464 s
+
+MSELoss() evaluated on 35 test data points: 0.569626
+Specific cases
+
+
+Total training time: 1.8479 s
+
+MSELoss() evaluated on 35 test data points: 0.408230
+Specific cases
+
+
+Total training time: 2.0895 s
+
+MSELoss() evaluated on 35 test data points: 0.220227
+Specific cases
+
+
+Total training time: 2.0709 s
+
+MSELoss() evaluated on 35 test data points: 0.172586
+Specific cases
+
+
+Total training time: 2.2479 s
+
+MSELoss() evaluated on 35 test data points: 0.197853
+Specific cases
+
+
+Total training time: 1.7143 s
+
+MSELoss() evaluated on 35 test data points: 0.139272
+Specific cases
+
+
+Total training time: 2.1988 s
+
+MSELoss() evaluated on 35 test data points: 0.187716
+Specific cases
+
+Starting inner loop 2
+(318, 716) (35, 716)
+
+Total training time: 2.1932 s
+
+MSELoss() evaluated on 35 test data points: 0.484455
+Specific cases
+
+
+Total training time: 1.9246 s
+
+MSELoss() evaluated on 35 test data points: 0.628419
+Specific cases
+
+
+Total training time: 1.9682 s
+
+MSELoss() evaluated on 35 test data points: 0.251945
+Specific cases
+
+
+Total training time: 1.6857 s
+
+MSELoss() evaluated on 35 test data points: 0.337894
+Specific cases
+
+
+Total training time: 1.5454 s
+
+MSELoss() evaluated on 35 test data points: 0.221179
+Specific cases
+
+
+Total training time: 1.9314 s
+
+MSELoss() evaluated on 35 test data points: 0.215805
+Specific cases
+
+
+Total training time: 2.2511 s
+
+MSELoss() evaluated on 35 test data points: 0.239290
+Specific cases
+
+Starting inner loop 3
+(318, 716) (35, 716)
+
+Total training time: 2.0656 s
+
+MSELoss() evaluated on 35 test data points: 0.863828
+Specific cases
+
+
+Total training time: 2.1771 s
+
+MSELoss() evaluated on 35 test data points: 0.873114
+Specific cases
+
+
+Total training time: 2.3799 s
+
+MSELoss() evaluated on 35 test data points: 0.867009
+Specific cases
+
+
+Total training time: 2.3608 s
+
+MSELoss() evaluated on 35 test data points: 0.687258
+Specific cases
+
+
+Total training time: 2.0270 s
+
+MSELoss() evaluated on 35 test data points: 0.667817
+Specific cases
+
+
+Total training time: 1.8423 s
+
+MSELoss() evaluated on 35 test data points: 0.660190
+Specific cases
+
+
+Total training time: 2.2156 s
+
+MSELoss() evaluated on 35 test data points: 0.667799
+Specific cases
+
+Starting inner loop 4
+(318, 716) (35, 716)
+
+Total training time: 1.7521 s
+
+MSELoss() evaluated on 35 test data points: 0.448035
+Specific cases
+
+
+Total training time: 2.0020 s
+
+MSELoss() evaluated on 35 test data points: 0.377214
+Specific cases
+
+
+Total training time: 1.8965 s
+
+MSELoss() evaluated on 35 test data points: 0.290859
+Specific cases
+
+
+Total training time: 2.0688 s
+
+MSELoss() evaluated on 35 test data points: 0.282139
+Specific cases
+
+
+Total training time: 1.5768 s
+
+MSELoss() evaluated on 35 test data points: 0.312749
+Specific cases
+
+
+Total training time: 1.7566 s
+
+MSELoss() evaluated on 35 test data points: 0.227678
+Specific cases
+
+
+Total training time: 2.7225 s
+
+MSELoss() evaluated on 35 test data points: 0.272455
+Specific cases
+
+Starting inner loop 5
+(318, 716) (35, 716)
+
+Total training time: 1.9445 s
+
+MSELoss() evaluated on 35 test data points: 0.370194
+Specific cases
+
+
+Total training time: 1.8906 s
+
+MSELoss() evaluated on 35 test data points: 0.382962
+Specific cases
+
+
+Total training time: 1.8634 s
+
+MSELoss() evaluated on 35 test data points: 0.532108
+Specific cases
+
+
+Total training time: 1.8593 s
+
+MSELoss() evaluated on 35 test data points: 0.352627
+Specific cases
+
+
+Total training time: 1.9540 s
+
+MSELoss() evaluated on 35 test data points: 0.374302
+Specific cases
+
+
+Total training time: 2.2078 s
+
+MSELoss() evaluated on 35 test data points: 0.305960
+Specific cases
+
+
+Total training time: 2.7483 s
+
+MSELoss() evaluated on 35 test data points: 0.247037
+Specific cases
+
+Starting inner loop 6
+(318, 716) (35, 716)
+
+Total training time: 1.8612 s
+
+MSELoss() evaluated on 35 test data points: 0.483774
+Specific cases
+
+
+Total training time: 1.8551 s
+
+MSELoss() evaluated on 35 test data points: 0.440718
+Specific cases
+
+
+Total training time: 1.8609 s
+
+MSELoss() evaluated on 35 test data points: 0.406156
+Specific cases
+
+
+Total training time: 1.9461 s
+
+MSELoss() evaluated on 35 test data points: 0.391450
+Specific cases
+
+
+Total training time: 1.9745 s
+
+MSELoss() evaluated on 35 test data points: 0.319554
+Specific cases
+
+
+Total training time: 2.1927 s
+
+MSELoss() evaluated on 35 test data points: 0.350981
+Specific cases
+
+
+Total training time: 2.7548 s
+
+MSELoss() evaluated on 35 test data points: 0.312888
+Specific cases
+
+Starting inner loop 7
+(318, 716) (35, 716)
+
+Total training time: 1.7789 s
+
+MSELoss() evaluated on 35 test data points: 0.577402
+Specific cases
+
+
+Total training time: 2.1765 s
+
+MSELoss() evaluated on 35 test data points: 0.354779
+Specific cases
+
+
+Total training time: 2.3709 s
+
+MSELoss() evaluated on 35 test data points: 0.355685
+Specific cases
+
+
+Total training time: 2.8002 s
+
+MSELoss() evaluated on 35 test data points: 0.244581
+Specific cases
+
+
+Total training time: 2.0732 s
+
+MSELoss() evaluated on 35 test data points: 0.286986
+Specific cases
+
+
+Total training time: 2.3422 s
+
+MSELoss() evaluated on 35 test data points: 0.350663
+Specific cases
+
+
+Total training time: 2.2963 s
+
+MSELoss() evaluated on 35 test data points: 0.241194
+Specific cases
+
+Starting inner loop 8
+(318, 716) (35, 716)
+
+Total training time: 2.1270 s
+
+MSELoss() evaluated on 35 test data points: 0.663866
+Specific cases
+
+
+Total training time: 1.7098 s
+
+MSELoss() evaluated on 35 test data points: 0.455799
+Specific cases
+
+
+Total training time: 1.8237 s
+
+MSELoss() evaluated on 35 test data points: 0.435902
+Specific cases
+
+
+Total training time: 1.9448 s
+
+MSELoss() evaluated on 35 test data points: 0.386016
+Specific cases
+
+
+Total training time: 1.7882 s
+
+MSELoss() evaluated on 35 test data points: 0.470178
+Specific cases
+
+
+Total training time: 2.1785 s
+
+MSELoss() evaluated on 35 test data points: 0.380646
+Specific cases
+
+
+Total training time: 2.2307 s
+
+MSELoss() evaluated on 35 test data points: 0.375099
+Specific cases
+
+Starting inner loop 9
+(318, 716) (35, 716)
+
+Total training time: 2.0721 s
+
+MSELoss() evaluated on 35 test data points: 0.968244
+Specific cases
+
+
+Total training time: 2.1330 s
+
+MSELoss() evaluated on 35 test data points: 0.728431
+Specific cases
+
+
+Total training time: 2.1578 s
+
+MSELoss() evaluated on 35 test data points: 0.772316
+Specific cases
+
+
+Total training time: 2.1292 s
+
+MSELoss() evaluated on 35 test data points: 0.626776
+Specific cases
+
+
+Total training time: 2.0396 s
+
+MSELoss() evaluated on 35 test data points: 0.656753
+Specific cases
+
+
+Total training time: 1.9457 s
+
+MSELoss() evaluated on 35 test data points: 0.648843
+Specific cases
+
+
+Total training time: 2.2077 s
+
+MSELoss() evaluated on 35 test data points: 0.598822
+Specific cases
+
+
+Total training time: 3.4239 s
+
+MSELoss() evaluated on 39 test data points: 0.638272
+Specific cases
+
+Starting outer loop 6
+Starting inner loop 0
+(318, 716) (35, 716)
+
+Total training time: 2.0101 s
+
+MSELoss() evaluated on 35 test data points: 1.674306
+Specific cases
+
+
+Total training time: 2.1509 s
+
+MSELoss() evaluated on 35 test data points: 1.557400
+Specific cases
+
+
+Total training time: 1.8039 s
+
+MSELoss() evaluated on 35 test data points: 1.567143
+Specific cases
+
+
+Total training time: 3.3730 s
+
+MSELoss() evaluated on 35 test data points: 1.465855
+Specific cases
+
+
+Total training time: 2.2104 s
+
+MSELoss() evaluated on 35 test data points: 1.464625
+Specific cases
+
+
+Total training time: 2.1033 s
+
+MSELoss() evaluated on 35 test data points: 1.447275
+Specific cases
+
+
+Total training time: 2.2546 s
+
+MSELoss() evaluated on 35 test data points: 1.432060
+Specific cases
+
+Starting inner loop 1
+(318, 716) (35, 716)
+
+Total training time: 1.5860 s
+
+MSELoss() evaluated on 35 test data points: 0.190754
+Specific cases
+
+
+Total training time: 2.8530 s
+
+MSELoss() evaluated on 35 test data points: 0.403949
+Specific cases
+
+
+Total training time: 1.9418 s
+
+MSELoss() evaluated on 35 test data points: 0.289476
+Specific cases
+
+
+Total training time: 1.9553 s
+
+MSELoss() evaluated on 35 test data points: 0.231097
+Specific cases
+
+
+Total training time: 1.8897 s
+
+MSELoss() evaluated on 35 test data points: 0.181842
+Specific cases
+
+
+Total training time: 1.8538 s
+
+MSELoss() evaluated on 35 test data points: 0.139410
+Specific cases
+
+
+Total training time: 2.2286 s
+
+MSELoss() evaluated on 35 test data points: 0.190842
+Specific cases
+
+Starting inner loop 2
+(318, 716) (35, 716)
+
+Total training time: 1.8109 s
+
+MSELoss() evaluated on 35 test data points: 1.069092
+Specific cases
+
+
+Total training time: 2.1169 s
+
+MSELoss() evaluated on 35 test data points: 0.678150
+Specific cases
+
+
+Total training time: 1.7870 s
+
+MSELoss() evaluated on 35 test data points: 0.436952
+Specific cases
+
+
+Total training time: 2.0423 s
+
+MSELoss() evaluated on 35 test data points: 0.316319
+Specific cases
+
+
+Total training time: 2.3616 s
+
+MSELoss() evaluated on 35 test data points: 0.248273
+Specific cases
+
+
+Total training time: 1.9901 s
+
+MSELoss() evaluated on 35 test data points: 0.239137
+Specific cases
+
+
+Total training time: 2.2205 s
+
+MSELoss() evaluated on 35 test data points: 0.236345
+Specific cases
+
+Starting inner loop 3
+(318, 716) (35, 716)
+
+Total training time: 1.8904 s
+
+MSELoss() evaluated on 35 test data points: 0.730679
+Specific cases
+
+
+Total training time: 2.2848 s
+
+MSELoss() evaluated on 35 test data points: 0.585399
+Specific cases
+
+
+Total training time: 1.8032 s
+
+MSELoss() evaluated on 35 test data points: 0.608878
+Specific cases
+
+
+Total training time: 1.7914 s
+
+MSELoss() evaluated on 35 test data points: 0.609826
+Specific cases
+
+
+Total training time: 2.0881 s
+
+MSELoss() evaluated on 35 test data points: 0.521241
+Specific cases
+
+
+Total training time: 1.8017 s
+
+MSELoss() evaluated on 35 test data points: 0.497435
+Specific cases
+
+
+Total training time: 2.2070 s
+
+MSELoss() evaluated on 35 test data points: 0.484802
+Specific cases
+
+Starting inner loop 4
+(318, 716) (35, 716)
+
+Total training time: 1.7662 s
+
+MSELoss() evaluated on 35 test data points: 0.471801
+Specific cases
+
+
+Total training time: 1.9247 s
+
+MSELoss() evaluated on 35 test data points: 0.397477
+Specific cases
+
+
+Total training time: 1.8806 s
+
+MSELoss() evaluated on 35 test data points: 0.419953
+Specific cases
+
+
+Total training time: 1.9363 s
+
+MSELoss() evaluated on 35 test data points: 0.251375
+Specific cases
+
+
+Total training time: 2.0492 s
+
+MSELoss() evaluated on 35 test data points: 0.334868
+Specific cases
+
+
+Total training time: 1.8660 s
+
+MSELoss() evaluated on 35 test data points: 0.237645
+Specific cases
+
+
+Total training time: 2.2202 s
+
+MSELoss() evaluated on 35 test data points: 0.395930
+Specific cases
+
+Starting inner loop 5
+(318, 716) (35, 716)
+
+Total training time: 1.6840 s
+
+MSELoss() evaluated on 35 test data points: 1.062421
+Specific cases
+
+
+Total training time: 1.6645 s
+
+MSELoss() evaluated on 35 test data points: 0.388105
+Specific cases
+
+
+Total training time: 2.0842 s
+
+MSELoss() evaluated on 35 test data points: 0.305802
+Specific cases
+
+
+Total training time: 1.7764 s
+
+MSELoss() evaluated on 35 test data points: 0.171845
+Specific cases
+
+
+Total training time: 1.5816 s
+
+MSELoss() evaluated on 35 test data points: 0.265166
+Specific cases
+
+
+Total training time: 1.8475 s
+
+MSELoss() evaluated on 35 test data points: 0.256961
+Specific cases
+
+
+Total training time: 2.2512 s
+
+MSELoss() evaluated on 35 test data points: 0.214154
+Specific cases
+
+Starting inner loop 6
+(318, 716) (35, 716)
+
+Total training time: 1.6695 s
+
+MSELoss() evaluated on 35 test data points: 0.426104
+Specific cases
+
+
+Total training time: 1.6450 s
+
+MSELoss() evaluated on 35 test data points: 0.469003
+Specific cases
+
+
+Total training time: 1.5963 s
+
+MSELoss() evaluated on 35 test data points: 0.136633
+Specific cases
+
+
+Total training time: 1.7205 s
+
+MSELoss() evaluated on 35 test data points: 0.141773
+Specific cases
+
+
+Total training time: 1.6631 s
+
+MSELoss() evaluated on 35 test data points: 0.175704
+Specific cases
+
+
+Total training time: 1.8492 s
+
+MSELoss() evaluated on 35 test data points: 0.118304
+Specific cases
+
+
+Total training time: 2.3596 s
+
+MSELoss() evaluated on 35 test data points: 0.115585
+Specific cases
+
+Starting inner loop 7
+(318, 716) (35, 716)
+
+Total training time: 1.6097 s
+
+MSELoss() evaluated on 35 test data points: 0.425116
+Specific cases
+
+
+Total training time: 2.4242 s
+
+MSELoss() evaluated on 35 test data points: 0.334677
+Specific cases
+
+
+Total training time: 1.8252 s
+
+MSELoss() evaluated on 35 test data points: 0.242188
+Specific cases
+
+
+Total training time: 1.7587 s
+
+MSELoss() evaluated on 35 test data points: 0.271656
+Specific cases
+
+
+Total training time: 1.5776 s
+
+MSELoss() evaluated on 35 test data points: 0.210936
+Specific cases
+
+
+Total training time: 1.7596 s
+
+MSELoss() evaluated on 35 test data points: 0.218073
+Specific cases
+
+
+Total training time: 2.2656 s
+
+MSELoss() evaluated on 35 test data points: 0.166973
+Specific cases
+
+Starting inner loop 8
+(318, 716) (35, 716)
+
+Total training time: 1.6582 s
+
+MSELoss() evaluated on 35 test data points: 0.770075
+Specific cases
+
+
+Total training time: 1.5476 s
+
+MSELoss() evaluated on 35 test data points: 0.602094
+Specific cases
+
+
+Total training time: 2.2630 s
+
+MSELoss() evaluated on 35 test data points: 0.638354
+Specific cases
+
+
+Total training time: 2.6161 s
+
+MSELoss() evaluated on 35 test data points: 0.561108
+Specific cases
+
+
+Total training time: 1.8107 s
+
+MSELoss() evaluated on 35 test data points: 0.530412
+Specific cases
+
+
+Total training time: 2.0496 s
+
+MSELoss() evaluated on 35 test data points: 0.533547
+Specific cases
+
+
+Total training time: 2.2734 s
+
+MSELoss() evaluated on 35 test data points: 0.481541
+Specific cases
+
+Starting inner loop 9
+(318, 716) (35, 716)
+
+Total training time: 1.8827 s
+
+MSELoss() evaluated on 35 test data points: 0.972971
+Specific cases
+
+
+Total training time: 2.1767 s
+
+MSELoss() evaluated on 35 test data points: 0.878371
+Specific cases
+
+
+Total training time: 2.6529 s
+
+MSELoss() evaluated on 35 test data points: 0.846011
+Specific cases
+
+
+Total training time: 2.0699 s
+
+MSELoss() evaluated on 35 test data points: 0.845877
+Specific cases
+
+
+Total training time: 1.9448 s
+
+MSELoss() evaluated on 35 test data points: 0.813490
+Specific cases
+
+
+Total training time: 2.4178 s
+
+MSELoss() evaluated on 35 test data points: 0.795538
+Specific cases
+
+
+Total training time: 2.5564 s
+
+MSELoss() evaluated on 35 test data points: 0.845639
+Specific cases
+
+
+Total training time: 3.5140 s
+
+MSELoss() evaluated on 39 test data points: 0.272884
+Specific cases
+
+Starting outer loop 7
+Starting inner loop 0
+(318, 716) (35, 716)
+
+Total training time: 2.0569 s
+
+MSELoss() evaluated on 35 test data points: 2.134824
+Specific cases
+
+
+Total training time: 1.7052 s
+
+MSELoss() evaluated on 35 test data points: 2.024413
+Specific cases
+
+
+Total training time: 1.6727 s
+
+MSELoss() evaluated on 35 test data points: 1.601311
+Specific cases
+
+
+Total training time: 1.6015 s
+
+MSELoss() evaluated on 35 test data points: 1.544427
+Specific cases
+
+
+Total training time: 2.6860 s
+
+MSELoss() evaluated on 35 test data points: 1.580920
+Specific cases
+
+
+Total training time: 1.8592 s
+
+MSELoss() evaluated on 35 test data points: 1.569356
+Specific cases
+
+
+Total training time: 2.3201 s
+
+MSELoss() evaluated on 35 test data points: 1.506560
+Specific cases
+
+Starting inner loop 1
+(318, 716) (35, 716)
+
+Total training time: 2.2000 s
+
+MSELoss() evaluated on 35 test data points: 0.389878
+Specific cases
+
+
+Total training time: 1.8262 s
+
+MSELoss() evaluated on 35 test data points: 0.258928
+Specific cases
+
+
+Total training time: 1.5904 s
+
+MSELoss() evaluated on 35 test data points: 0.205343
+Specific cases
+
+
+Total training time: 1.7038 s
+
+MSELoss() evaluated on 35 test data points: 0.204640
+Specific cases
+
+
+Total training time: 2.1820 s
+
+MSELoss() evaluated on 35 test data points: 0.166430
+Specific cases
+
+
+Total training time: 2.5990 s
+
+MSELoss() evaluated on 35 test data points: 0.127484
+Specific cases
+
+
+Total training time: 2.5043 s
+
+MSELoss() evaluated on 35 test data points: 0.220653
+Specific cases
+
+Starting inner loop 2
+(318, 716) (35, 716)
+
+Total training time: 2.4919 s
+
+MSELoss() evaluated on 35 test data points: 1.178683
+Specific cases
+
+
+Total training time: 2.2693 s
+
+MSELoss() evaluated on 35 test data points: 0.348473
+Specific cases
+
+
+Total training time: 2.5133 s
+
+MSELoss() evaluated on 35 test data points: 0.225647
+Specific cases
+
+
+Total training time: 2.2787 s
+
+MSELoss() evaluated on 35 test data points: 0.223160
+Specific cases
+
+
+Total training time: 2.5305 s
+
+MSELoss() evaluated on 35 test data points: 0.281961
+Specific cases
+
+
+Total training time: 2.8595 s
+
+MSELoss() evaluated on 35 test data points: 0.303774
+Specific cases
+
+
+Total training time: 2.2290 s
+
+MSELoss() evaluated on 35 test data points: 0.191188
+Specific cases
+
+Starting inner loop 3
+(318, 716) (35, 716)
+
+Total training time: 2.4422 s
+
+MSELoss() evaluated on 35 test data points: 0.946374
+Specific cases
+
+
+Total training time: 2.2099 s
+
+MSELoss() evaluated on 35 test data points: 0.737858
+Specific cases
+
+
+Total training time: 2.8072 s
+
+MSELoss() evaluated on 35 test data points: 0.763347
+Specific cases
+
+
+Total training time: 2.2287 s
+
+MSELoss() evaluated on 35 test data points: 0.590934
+Specific cases
+
+
+Total training time: 2.0234 s
+
+MSELoss() evaluated on 35 test data points: 0.590045
+Specific cases
+
+
+Total training time: 2.0166 s
+
+MSELoss() evaluated on 35 test data points: 0.608701
+Specific cases
+
+
+Total training time: 2.2633 s
+
+MSELoss() evaluated on 35 test data points: 0.617167
+Specific cases
+
+Starting inner loop 4
+(318, 716) (35, 716)
+
+Total training time: 2.3554 s
+
+MSELoss() evaluated on 35 test data points: 0.415992
+Specific cases
+
+
+Total training time: 2.5677 s
+
+MSELoss() evaluated on 35 test data points: 0.460285
+Specific cases
+
+
+Total training time: 2.4692 s
+
+MSELoss() evaluated on 35 test data points: 0.207917
+Specific cases
+
+
+Total training time: 1.7370 s
+
+MSELoss() evaluated on 35 test data points: 0.272546
+Specific cases
+
+
+Total training time: 2.2985 s
+
+MSELoss() evaluated on 35 test data points: 0.245617
+Specific cases
+
+
+Total training time: 2.9792 s
+
+MSELoss() evaluated on 35 test data points: 0.231685
+Specific cases
+
+
+Total training time: 2.2982 s
+
+MSELoss() evaluated on 35 test data points: 0.257372
+Specific cases
+
+Starting inner loop 5
+(318, 716) (35, 716)
+
+Total training time: 2.3859 s
+
+MSELoss() evaluated on 35 test data points: 1.020713
+Specific cases
+
+
+Total training time: 2.1807 s
+
+MSELoss() evaluated on 35 test data points: 0.312374
+Specific cases
+
+
+Total training time: 2.0712 s
+
+MSELoss() evaluated on 35 test data points: 0.551009
+Specific cases
+
+
+Total training time: 1.8939 s
+
+MSELoss() evaluated on 35 test data points: 0.328087
+Specific cases
+
+
+Total training time: 1.6532 s
+
+MSELoss() evaluated on 35 test data points: 0.245465
+Specific cases
+
+
+Total training time: 1.7696 s
+
+MSELoss() evaluated on 35 test data points: 0.192235
+Specific cases
+
+
+Total training time: 2.2365 s
+
+MSELoss() evaluated on 35 test data points: 0.334892
+Specific cases
+
+Starting inner loop 6
+(318, 716) (35, 716)
+
+Total training time: 1.7478 s
+
+MSELoss() evaluated on 35 test data points: 0.468687
+Specific cases
+
+
+Total training time: 1.8286 s
+
+MSELoss() evaluated on 35 test data points: 0.338033
+Specific cases
+
+
+Total training time: 1.5809 s
+
+MSELoss() evaluated on 35 test data points: 0.263968
+Specific cases
+
+
+Total training time: 1.5699 s
+
+MSELoss() evaluated on 35 test data points: 0.187756
+Specific cases
+
+
+Total training time: 1.5823 s
+
+MSELoss() evaluated on 35 test data points: 0.197946
+Specific cases
+
+
+Total training time: 1.6813 s
+
+MSELoss() evaluated on 35 test data points: 0.183278
+Specific cases
+
+
+Total training time: 2.2042 s
+
+MSELoss() evaluated on 35 test data points: 0.171267
+Specific cases
+
+Starting inner loop 7
+(318, 716) (35, 716)
+
+Total training time: 2.0045 s
+
+MSELoss() evaluated on 35 test data points: 0.502353
+Specific cases
+
+
+Total training time: 2.2038 s
+
+MSELoss() evaluated on 35 test data points: 0.431533
+Specific cases
+
+
+Total training time: 2.0886 s
+
+MSELoss() evaluated on 35 test data points: 0.505330
+Specific cases
+
+
+Total training time: 1.7840 s
+
+MSELoss() evaluated on 35 test data points: 0.309824
+Specific cases
+
+
+Total training time: 1.6783 s
+
+MSELoss() evaluated on 35 test data points: 0.349954
+Specific cases
+
+
+Total training time: 1.6495 s
+
+MSELoss() evaluated on 35 test data points: 0.314879
+Specific cases
+
+
+Total training time: 2.1999 s
+
+MSELoss() evaluated on 35 test data points: 0.337026
+Specific cases
+
+Starting inner loop 8
+(318, 716) (35, 716)
+
+Total training time: 1.9232 s
+
+MSELoss() evaluated on 35 test data points: 0.525895
+Specific cases
+
+
+Total training time: 1.7295 s
+
+MSELoss() evaluated on 35 test data points: 0.567988
+Specific cases
+
+
+Total training time: 2.0691 s
+
+MSELoss() evaluated on 35 test data points: 0.453999
+Specific cases
+
+
+Total training time: 1.5956 s
+
+MSELoss() evaluated on 35 test data points: 0.432687
+Specific cases
+
+
+Total training time: 1.7089 s
+
+MSELoss() evaluated on 35 test data points: 0.496457
+Specific cases
+
+
+Total training time: 2.0728 s
+
+MSELoss() evaluated on 35 test data points: 0.421187
+Specific cases
+
+
+Total training time: 2.1940 s
+
+MSELoss() evaluated on 35 test data points: 0.452396
+Specific cases
+
+Starting inner loop 9
+(318, 716) (35, 716)
+
+Total training time: 1.7428 s
+
+MSELoss() evaluated on 35 test data points: 0.979626
+Specific cases
+
+
+Total training time: 1.7996 s
+
+MSELoss() evaluated on 35 test data points: 0.942420
+Specific cases
+
+
+Total training time: 1.7981 s
+
+MSELoss() evaluated on 35 test data points: 0.755158
+Specific cases
+
+
+Total training time: 1.6105 s
+
+MSELoss() evaluated on 35 test data points: 0.723010
+Specific cases
+
+
+Total training time: 1.6747 s
+
+MSELoss() evaluated on 35 test data points: 0.694216
+Specific cases
+
+
+Total training time: 1.6267 s
+
+MSELoss() evaluated on 35 test data points: 0.743895
+Specific cases
+
+
+Total training time: 2.2395 s
+
+MSELoss() evaluated on 35 test data points: 0.759582
+Specific cases
+
+
+Total training time: 2.6365 s
+
+MSELoss() evaluated on 39 test data points: 0.158570
+Specific cases
+
+Starting outer loop 8
+Starting inner loop 0
+(318, 716) (35, 716)
+
+Total training time: 1.8674 s
+
+MSELoss() evaluated on 35 test data points: 1.854231
+Specific cases
+
+
+Total training time: 2.0290 s
+
+MSELoss() evaluated on 35 test data points: 1.758087
+Specific cases
+
+
+Total training time: 1.8137 s
+
+MSELoss() evaluated on 35 test data points: 1.524959
+Specific cases
+
+
+Total training time: 1.8274 s
+
+MSELoss() evaluated on 35 test data points: 1.359776
+Specific cases
+
+
+Total training time: 1.7912 s
+
+MSELoss() evaluated on 35 test data points: 1.409154
+Specific cases
+
+
+Total training time: 1.8934 s
+
+MSELoss() evaluated on 35 test data points: 1.448661
+Specific cases
+
+
+Total training time: 2.2798 s
+
+MSELoss() evaluated on 35 test data points: 1.327662
+Specific cases
+
+Starting inner loop 1
+(318, 716) (35, 716)
+
+Total training time: 1.9017 s
+
+MSELoss() evaluated on 35 test data points: 0.282289
+Specific cases
+
+
+Total training time: 2.1328 s
+
+MSELoss() evaluated on 35 test data points: 0.343552
+Specific cases
+
+
+Total training time: 1.6897 s
+
+MSELoss() evaluated on 35 test data points: 0.219131
+Specific cases
+
+
+Total training time: 1.5087 s
+
+MSELoss() evaluated on 35 test data points: 0.249466
+Specific cases
+
+
+Total training time: 1.6819 s
+
+MSELoss() evaluated on 35 test data points: 0.186462
+Specific cases
+
+
+Total training time: 1.6735 s
+
+MSELoss() evaluated on 35 test data points: 0.149230
+Specific cases
+
+
+Total training time: 2.2244 s
+
+MSELoss() evaluated on 35 test data points: 0.157701
+Specific cases
+
+Starting inner loop 2
+(318, 716) (35, 716)
+
+Total training time: 1.9129 s
+
+MSELoss() evaluated on 35 test data points: 0.359936
+Specific cases
+
+
+Total training time: 1.7760 s
+
+MSELoss() evaluated on 35 test data points: 0.437775
+Specific cases
+
+
+Total training time: 2.2035 s
+
+MSELoss() evaluated on 35 test data points: 0.231341
+Specific cases
+
+
+Total training time: 1.7830 s
+
+MSELoss() evaluated on 35 test data points: 0.247537
+Specific cases
+
+
+Total training time: 1.8656 s
+
+MSELoss() evaluated on 35 test data points: 0.177115
+Specific cases
+
+
+Total training time: 1.8958 s
+
+MSELoss() evaluated on 35 test data points: 0.268767
+Specific cases
+
+
+Total training time: 2.2329 s
+
+MSELoss() evaluated on 35 test data points: 0.204101
+Specific cases
+
+Starting inner loop 3
+(318, 716) (35, 716)
+
+Total training time: 1.5869 s
+
+MSELoss() evaluated on 35 test data points: 1.214670
+Specific cases
+
+
+Total training time: 1.5992 s
+
+MSELoss() evaluated on 35 test data points: 0.754254
+Specific cases
+
+
+Total training time: 2.1118 s
+
+MSELoss() evaluated on 35 test data points: 0.518306
+Specific cases
+
+
+Total training time: 1.9022 s
+
+MSELoss() evaluated on 35 test data points: 0.507158
+Specific cases
+
+
+Total training time: 1.9036 s
+
+MSELoss() evaluated on 35 test data points: 0.509514
+Specific cases
+
+
+Total training time: 1.8967 s
+
+MSELoss() evaluated on 35 test data points: 0.479092
+Specific cases
+
+
+Total training time: 2.2305 s
+
+MSELoss() evaluated on 35 test data points: 0.506454
+Specific cases
+
+Starting inner loop 4
+(318, 716) (35, 716)
+
+Total training time: 2.3880 s
+
+MSELoss() evaluated on 35 test data points: 0.436710
+Specific cases
+
+
+Total training time: 2.2731 s
+
+MSELoss() evaluated on 35 test data points: 0.446449
+Specific cases
+
+
+Total training time: 1.6519 s
+
+MSELoss() evaluated on 35 test data points: 0.373377
+Specific cases
+
+
+Total training time: 2.1756 s
+
+MSELoss() evaluated on 35 test data points: 0.320780
+Specific cases
+
+
+Total training time: 2.3535 s
+
+MSELoss() evaluated on 35 test data points: 0.333676
+Specific cases
+
+
+Total training time: 1.6574 s
+
+MSELoss() evaluated on 35 test data points: 0.276045
+Specific cases
+
+
+Total training time: 2.4419 s
+
+MSELoss() evaluated on 35 test data points: 0.345673
+Specific cases
+
+Starting inner loop 5
+(318, 716) (35, 716)
+
+Total training time: 2.2877 s
+
+MSELoss() evaluated on 35 test data points: 0.947447
+Specific cases
+
+
+Total training time: 1.8664 s
+
+MSELoss() evaluated on 35 test data points: 0.557477
+Specific cases
+
+
+Total training time: 1.8383 s
+
+MSELoss() evaluated on 35 test data points: 0.447400
+Specific cases
+
+
+Total training time: 1.9877 s
+
+MSELoss() evaluated on 35 test data points: 0.218532
+Specific cases
+
+
+Total training time: 2.1719 s
+
+MSELoss() evaluated on 35 test data points: 0.277053
+Specific cases
+
+
+Total training time: 1.9564 s
+
+MSELoss() evaluated on 35 test data points: 0.191835
+Specific cases
+
+
+Total training time: 2.3110 s
+
+MSELoss() evaluated on 35 test data points: 0.168257
+Specific cases
+
+Starting inner loop 6
+(318, 716) (35, 716)
+
+Total training time: 1.8742 s
+
+MSELoss() evaluated on 35 test data points: 0.540475
+Specific cases
+
+
+Total training time: 2.1257 s
+
+MSELoss() evaluated on 35 test data points: 0.274789
+Specific cases
+
+
+Total training time: 1.6113 s
+
+MSELoss() evaluated on 35 test data points: 0.207859
+Specific cases
+
+
+Total training time: 2.2851 s
+
+MSELoss() evaluated on 35 test data points: 0.211080
+Specific cases
+
+
+Total training time: 2.0247 s
+
+MSELoss() evaluated on 35 test data points: 0.140014
+Specific cases
+
+
+Total training time: 1.9852 s
+
+MSELoss() evaluated on 35 test data points: 0.182097
+Specific cases
+
+
+Total training time: 2.3431 s
+
+MSELoss() evaluated on 35 test data points: 0.178841
+Specific cases
+
+Starting inner loop 7
+(318, 716) (35, 716)
+
+Total training time: 1.9388 s
+
+MSELoss() evaluated on 35 test data points: 0.657185
+Specific cases
+
+
+Total training time: 1.9939 s
+
+MSELoss() evaluated on 35 test data points: 0.423822
+Specific cases
+
+
+Total training time: 1.7556 s
+
+MSELoss() evaluated on 35 test data points: 0.454580
+Specific cases
+
+
+Total training time: 1.9583 s
+
+MSELoss() evaluated on 35 test data points: 0.337201
+Specific cases
+
+
+Total training time: 2.4927 s
+
+MSELoss() evaluated on 35 test data points: 0.384467
+Specific cases
+
+
+Total training time: 1.7358 s
+
+MSELoss() evaluated on 35 test data points: 0.392357
+Specific cases
+
+
+Total training time: 2.2546 s
+
+MSELoss() evaluated on 35 test data points: 0.429870
+Specific cases
+
+Starting inner loop 8
+(318, 716) (35, 716)
+
+Total training time: 2.1237 s
+
+MSELoss() evaluated on 35 test data points: 0.722835
+Specific cases
+
+
+Total training time: 2.0058 s
+
+MSELoss() evaluated on 35 test data points: 0.379516
+Specific cases
+
+
+Total training time: 2.2442 s
+
+MSELoss() evaluated on 35 test data points: 0.196426
+Specific cases
+
+
+Total training time: 2.1175 s
+
+MSELoss() evaluated on 35 test data points: 0.146199
+Specific cases
+
+
+Total training time: 1.9178 s
+
+MSELoss() evaluated on 35 test data points: 0.207069
+Specific cases
+
+
+Total training time: 1.8972 s
+
+MSELoss() evaluated on 35 test data points: 0.150121
+Specific cases
+
+
+Total training time: 2.2044 s
+
+MSELoss() evaluated on 35 test data points: 0.094904
+Specific cases
+
+Starting inner loop 9
+(318, 716) (35, 716)
+
+Total training time: 1.8463 s
+
+MSELoss() evaluated on 35 test data points: 1.009241
+Specific cases
+
+
+Total training time: 1.6712 s
+
+MSELoss() evaluated on 35 test data points: 0.919424
+Specific cases
+
+
+Total training time: 1.8103 s
+
+MSELoss() evaluated on 35 test data points: 0.904755
+Specific cases
+
+
+Total training time: 1.9490 s
+
+MSELoss() evaluated on 35 test data points: 0.846701
+Specific cases
+
+
+Total training time: 2.1056 s
+
+MSELoss() evaluated on 35 test data points: 0.824319
+Specific cases
+
+
+Total training time: 1.6974 s
+
+MSELoss() evaluated on 35 test data points: 0.817382
+Specific cases
+
+
+Total training time: 2.2090 s
+
+MSELoss() evaluated on 35 test data points: 0.799364
+Specific cases
+
+
+Total training time: 3.4154 s
+
+MSELoss() evaluated on 39 test data points: 0.377333
+Specific cases
+
+Starting outer loop 9
+Starting inner loop 0
+(318, 716) (35, 716)
+
+Total training time: 2.0294 s
+
+MSELoss() evaluated on 35 test data points: 1.888792
+Specific cases
+
+
+Total training time: 2.0249 s
+
+MSELoss() evaluated on 35 test data points: 1.432954
+Specific cases
+
+
+Total training time: 1.6993 s
+
+MSELoss() evaluated on 35 test data points: 1.352162
+Specific cases
+
+
+Total training time: 1.5899 s
+
+MSELoss() evaluated on 35 test data points: 1.385337
+Specific cases
+
+
+Total training time: 1.8248 s
+
+MSELoss() evaluated on 35 test data points: 1.334980
+Specific cases
+
+
+Total training time: 2.3417 s
+
+MSELoss() evaluated on 35 test data points: 1.357574
+Specific cases
+
+
+Total training time: 2.2174 s
+
+MSELoss() evaluated on 35 test data points: 1.375710
+Specific cases
+
+Starting inner loop 1
+(318, 716) (35, 716)
+
+Total training time: 1.6562 s
+
+MSELoss() evaluated on 35 test data points: 0.225156
+Specific cases
+
+
+Total training time: 2.0701 s
+
+MSELoss() evaluated on 35 test data points: 0.384198
+Specific cases
+
+
+Total training time: 1.5580 s
+
+MSELoss() evaluated on 35 test data points: 0.264210
+Specific cases
+
+
+Total training time: 1.6949 s
+
+MSELoss() evaluated on 35 test data points: 0.221976
+Specific cases
+
+
+Total training time: 1.7649 s
+
+MSELoss() evaluated on 35 test data points: 0.168391
+Specific cases
+
+
+Total training time: 1.6814 s
+
+MSELoss() evaluated on 35 test data points: 0.215735
+Specific cases
+
+
+Total training time: 2.2385 s
+
+MSELoss() evaluated on 35 test data points: 0.116017
+Specific cases
+
+Starting inner loop 2
+(318, 716) (35, 716)
+
+Total training time: 1.9430 s
+
+MSELoss() evaluated on 35 test data points: 0.605616
+Specific cases
+
+
+Total training time: 2.2604 s
+
+MSELoss() evaluated on 35 test data points: 0.510375
+Specific cases
+
+
+Total training time: 2.2562 s
+
+MSELoss() evaluated on 35 test data points: 0.329912
+Specific cases
+
+
+Total training time: 1.7821 s
+
+MSELoss() evaluated on 35 test data points: 0.318738
+Specific cases
+
+
+Total training time: 1.5029 s
+
+MSELoss() evaluated on 35 test data points: 0.288767
+Specific cases
+
+
+Total training time: 2.2539 s
+
+MSELoss() evaluated on 35 test data points: 0.253356
+Specific cases
+
+
+Total training time: 2.2725 s
+
+MSELoss() evaluated on 35 test data points: 0.257934
+Specific cases
+
+Starting inner loop 3
+(318, 716) (35, 716)
+
+Total training time: 2.4328 s
+
+MSELoss() evaluated on 35 test data points: 1.145473
+Specific cases
+
+
+Total training time: 2.1138 s
+
+MSELoss() evaluated on 35 test data points: 0.699924
+Specific cases
+
+
+Total training time: 2.4796 s
+
+MSELoss() evaluated on 35 test data points: 0.599392
+Specific cases
+
+
+Total training time: 2.0267 s
+
+MSELoss() evaluated on 35 test data points: 0.453926
+Specific cases
+
+
+Total training time: 1.6048 s
+
+MSELoss() evaluated on 35 test data points: 0.491051
+Specific cases
+
+
+Total training time: 1.8900 s
+
+MSELoss() evaluated on 35 test data points: 0.484370
+Specific cases
+
+
+Total training time: 2.1904 s
+
+MSELoss() evaluated on 35 test data points: 0.422572
+Specific cases
+
+Starting inner loop 4
+(318, 716) (35, 716)
+
+Total training time: 1.8580 s
+
+MSELoss() evaluated on 35 test data points: 0.717561
+Specific cases
+
+
+Total training time: 2.3099 s
+
+MSELoss() evaluated on 35 test data points: 0.563738
+Specific cases
+
+
+Total training time: 1.8505 s
+
+MSELoss() evaluated on 35 test data points: 0.382193
+Specific cases
+
+
+Total training time: 1.6221 s
+
+MSELoss() evaluated on 35 test data points: 0.338830
+Specific cases
+
+
+Total training time: 2.3870 s
+
+MSELoss() evaluated on 35 test data points: 0.306898
+Specific cases
+
+
+Total training time: 2.3883 s
+
+MSELoss() evaluated on 35 test data points: 0.373400
+Specific cases
+
+
+Total training time: 2.2246 s
+
+MSELoss() evaluated on 35 test data points: 0.286766
+Specific cases
+
+Starting inner loop 5
+(318, 716) (35, 716)
+
+Total training time: 1.7605 s
+
+MSELoss() evaluated on 35 test data points: 0.536787
+Specific cases
+
+
+Total training time: 2.2889 s
+
+MSELoss() evaluated on 35 test data points: 0.442834
+Specific cases
+
+
+Total training time: 2.6133 s
+
+MSELoss() evaluated on 35 test data points: 0.379215
+Specific cases
+
+
+Total training time: 2.3928 s
+
+MSELoss() evaluated on 35 test data points: 0.212436
+Specific cases
+
+
+Total training time: 2.2740 s
+
+MSELoss() evaluated on 35 test data points: 0.152054
+Specific cases
+
+
+Total training time: 2.1393 s
+
+MSELoss() evaluated on 35 test data points: 0.255206
+Specific cases
+
+
+Total training time: 2.2246 s
+
+MSELoss() evaluated on 35 test data points: 0.254732
+Specific cases
+
+Starting inner loop 6
+(318, 716) (35, 716)
+
+Total training time: 2.4174 s
+
+MSELoss() evaluated on 35 test data points: 0.314270
+Specific cases
+
+
+Total training time: 2.5603 s
+
+MSELoss() evaluated on 35 test data points: 0.320102
+Specific cases
+
+
+Total training time: 2.1130 s
+
+MSELoss() evaluated on 35 test data points: 0.239055
+Specific cases
+
+
+Total training time: 2.1681 s
+
+MSELoss() evaluated on 35 test data points: 0.186934
+Specific cases
+
+
+Total training time: 2.5269 s
+
+MSELoss() evaluated on 35 test data points: 0.200590
+Specific cases
+
+
+Total training time: 1.6622 s
+
+MSELoss() evaluated on 35 test data points: 0.169550
+Specific cases
+
+
+Total training time: 2.2351 s
+
+MSELoss() evaluated on 35 test data points: 0.139906
+Specific cases
+
+Starting inner loop 7
+(318, 716) (35, 716)
+
+Total training time: 1.9766 s
+
+MSELoss() evaluated on 35 test data points: 0.506757
+Specific cases
+
+
+Total training time: 2.1625 s
+
+MSELoss() evaluated on 35 test data points: 0.555627
+Specific cases
+
+
+Total training time: 2.0364 s
+
+MSELoss() evaluated on 35 test data points: 0.511570
+Specific cases
+
+
+Total training time: 1.7670 s
+
+MSELoss() evaluated on 35 test data points: 0.470505
+Specific cases
+
+
+Total training time: 1.5737 s
+
+MSELoss() evaluated on 35 test data points: 0.363388
+Specific cases
+
+
+Total training time: 1.6313 s
+
+MSELoss() evaluated on 35 test data points: 0.442063
+Specific cases
+
+
+Total training time: 2.2259 s
+
+MSELoss() evaluated on 35 test data points: 0.393512
+Specific cases
+
+Starting inner loop 8
+(318, 716) (35, 716)
+
+Total training time: 2.0353 s
+
+MSELoss() evaluated on 35 test data points: 0.632716
+Specific cases
+
+
+Total training time: 1.7181 s
+
+MSELoss() evaluated on 35 test data points: 0.377113
+Specific cases
+
+
+Total training time: 1.7219 s
+
+MSELoss() evaluated on 35 test data points: 0.182970
+Specific cases
+
+
+Total training time: 1.7096 s
+
+MSELoss() evaluated on 35 test data points: 0.224598
+Specific cases
+
+
+Total training time: 1.5267 s
+
+MSELoss() evaluated on 35 test data points: 0.196719
+Specific cases
+
+
+Total training time: 1.6874 s
+
+MSELoss() evaluated on 35 test data points: 0.168066
+Specific cases
+
+
+Total training time: 2.3371 s
+
+MSELoss() evaluated on 35 test data points: 0.157194
+Specific cases
+
+Starting inner loop 9
+(318, 716) (35, 716)
+
+Total training time: 1.5549 s
+
+MSELoss() evaluated on 35 test data points: 0.649039
+Specific cases
+
+
+Total training time: 1.8884 s
+
+MSELoss() evaluated on 35 test data points: 0.867292
+Specific cases
+
+
+Total training time: 1.6344 s
+
+MSELoss() evaluated on 35 test data points: 0.628582
+Specific cases
+
+
+Total training time: 1.5766 s
+
+MSELoss() evaluated on 35 test data points: 0.556003
+Specific cases
+
+
+Total training time: 1.5730 s
+
+MSELoss() evaluated on 35 test data points: 0.511261
+Specific cases
+
+
+Total training time: 1.7889 s
+
+MSELoss() evaluated on 35 test data points: 0.451900
+Specific cases
+
+
+Total training time: 2.2271 s
+
+MSELoss() evaluated on 35 test data points: 0.408528
+Specific cases
+
+
+Total training time: 3.4437 s
+
+MSELoss() evaluated on 39 test data points: 0.701090
+Specific cases
+
+Done performing two-layer cross-validation.
+0.4694892348227452
+[1.30983829 0.16723518 0.55168808 0.11911237 0.42294645 0.63827205
+ 0.27288404 0.15856965 0.37733299 0.70108962]
+[(1024,), (1024,), (1024,), (1024,), (512,), (1024,), (512,), (512,), (1024,), (1024,)]

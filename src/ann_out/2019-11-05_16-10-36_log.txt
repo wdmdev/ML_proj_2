@@ -1,0 +1,19 @@
+Starting network training
+Time: 2019-11-05_16-10-36
+Attemptning to predict reported thefts and burglaries 5 years in the future using 4 years of data
+
+Estimating nans
+Done creating dataset (observations, features)
+Data from 2007 to 2018 was used
+x: (392, 716)
+y: (392,)
+
+Performing two-layer cross-validation
+Starting outer loop 0
+Starting inner loop 0
+
+Total training time: 4.9537 s
+
+MSELoss() evaluated on 20 test data points: 0.666362
+Specific cases
+

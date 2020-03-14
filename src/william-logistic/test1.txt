@@ -1,0 +1,27 @@
+Mean of y: 48.18869047619047
+Standard deviation of y: 20.070697436496356
+
+
+Class count after transformation:
+high risk: 10
+low risk: 1086
+medium risk: 80
+
+
+E_gen_base: 0.011904761904761906
+E_gen_logi: 0.0017006802721088435
+
+n12: 14.0
+n21: 2.0
+
+theta: 0.11320754716981132
+Q: 764.7190721649484
+
+p: 425.0889175257732
+q: 338.63015463917526
+
+Confidence Interval for theta (difference in model A and B)
+Lower: 0.08900760082708747 , Upper:0.1375151870501654
+
+Testing hypothesis, H0: No difference in A and B performance
+p-value: 0.004180908203124999

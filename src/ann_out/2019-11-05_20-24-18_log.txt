@@ -1,0 +1,26 @@
+Starting network training
+Time: 2019-11-05_20-24-18
+Attemptning to predict reported thefts and burglaries 5 years in the future using 4 years of data
+
+Estimating nans
+Done creating dataset (observations, features)
+Data from 2007 to 2018 was used
+x: (392, 716)
+y: (392,)
+
+Performing two-layer cross-validation
+Starting outer loop 0
+Starting outer loop 1
+Starting outer loop 2
+Starting outer loop 3
+Starting outer loop 4
+Starting outer loop 5
+Starting outer loop 6
+Starting outer loop 7
+Starting outer loop 8
+Starting outer loop 9
+Done performing two-layer cross-validation.
+1.0593080259724583
+[2.23998546 0.51164556 2.11526709 0.552332   0.65504455 1.47067249
+ 0.46905991 1.24229624 0.51185553 0.87924491]
+[]

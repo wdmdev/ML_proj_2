@@ -1,0 +1,111 @@
+Starting network training
+Time: 2019-11-05_16-50-23
+Attemptning to predict reported thefts and burglaries 5 years in the future using 4 years of data
+
+Estimating nans
+Done creating dataset (observations, features)
+Data from 2007 to 2018 was used
+x: (392, 716)
+y: (392,)
+
+Performing two-layer cross-validation
+Starting outer loop 0
+Starting inner loop 0
+(131, 716) (65, 716)
+
+Total training time: 3.0453 s
+
+MSELoss() evaluated on 65 test data points: 1.124299
+Specific cases
+
+
+Total training time: 2.8099 s
+
+MSELoss() evaluated on 65 test data points: 1.081845
+Specific cases
+
+Starting inner loop 1
+(131, 716) (65, 716)
+
+Total training time: 2.2909 s
+
+MSELoss() evaluated on 65 test data points: 0.451295
+Specific cases
+
+
+Total training time: 2.4996 s
+
+MSELoss() evaluated on 65 test data points: 0.415329
+Specific cases
+
+Starting inner loop 2
+(131, 716) (65, 716)
+
+Total training time: 2.4153 s
+
+MSELoss() evaluated on 65 test data points: 0.879751
+Specific cases
+
+
+Total training time: 2.6261 s
+
+MSELoss() evaluated on 65 test data points: 0.863832
+Specific cases
+
+
+Total training time: 2.7782 s
+
+MSELoss() evaluated on 196 test data points: 0.924628
+Specific cases
+
+Starting outer loop 1
+Starting inner loop 0
+(218, 716) (109, 716)
+
+Total training time: 2.6056 s
+
+MSELoss() evaluated on 109 test data points: 0.889722
+Specific cases
+
+
+Total training time: 2.9057 s
+
+MSELoss() evaluated on 109 test data points: 0.587974
+Specific cases
+
+Starting inner loop 1
+(218, 716) (109, 716)
+
+Total training time: 2.3114 s
+
+MSELoss() evaluated on 109 test data points: 0.643135
+Specific cases
+
+
+Total training time: 2.8597 s
+
+MSELoss() evaluated on 109 test data points: 0.410080
+Specific cases
+
+Starting inner loop 2
+(218, 716) (109, 716)
+
+Total training time: 2.5188 s
+
+MSELoss() evaluated on 109 test data points: 0.514450
+Specific cases
+
+
+Total training time: 2.8173 s
+
+MSELoss() evaluated on 109 test data points: 0.685043
+Specific cases
+
+
+Total training time: 3.1616 s
+
+MSELoss() evaluated on 65 test data points: 0.730097
+Specific cases
+
+Done performing two-layer cross-validation. Mean losses for different layer configs:
+(0.15021940100126427, array([0.92462778, 0.7300967 ]), [(2,)])

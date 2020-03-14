@@ -1,0 +1,11 @@
+Starting network training
+Time: 2019-11-11_14-01-39
+Attemptning to predict reported thefts and burglaries 5 years in the future using 4 years of data
+
+Estimating nans
+Done creating dataset (observations, features)
+Data from 2007 to 2018 was used
+x: (392, 716)
+y: (392,)
+
+Running 10-fold cross validation for linear regression

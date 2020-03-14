@@ -1,0 +1,115 @@
+Starting network training
+Time: 2019-11-05_20-06-52
+Attemptning to predict reported thefts and burglaries 5 years in the future using 4 years of data
+
+Estimating nans
+Done creating dataset (observations, features)
+Data from 2007 to 2018 was used
+x: (392, 716)
+y: (392,)
+
+Performing two-layer cross-validation
+Starting outer loop 0
+Starting inner loop 0
+(318, 716) (35, 716)
+
+Total training time: 3.2091 s
+
+MSELoss() evaluated on 35 test data points: 0.329116
+Specific cases
+
+
+Total training time: 2.1417 s
+
+MSELoss() evaluated on 35 test data points: 0.238893
+Specific cases
+
+
+Total training time: 2.1407 s
+
+MSELoss() evaluated on 35 test data points: 0.207543
+Specific cases
+
+
+Total training time: 1.8596 s
+
+MSELoss() evaluated on 35 test data points: 0.142470
+Specific cases
+
+
+Total training time: 2.1976 s
+
+MSELoss() evaluated on 35 test data points: 0.134191
+Specific cases
+
+
+Total training time: 2.2044 s
+
+MSELoss() evaluated on 35 test data points: 0.104877
+Specific cases
+
+
+Total training time: 2.3194 s
+
+MSELoss() evaluated on 35 test data points: 0.173777
+Specific cases
+
+Starting inner loop 1
+(318, 716) (35, 716)
+
+Total training time: 1.9091 s
+
+MSELoss() evaluated on 35 test data points: 1.386819
+Specific cases
+
+
+Total training time: 1.8911 s
+
+MSELoss() evaluated on 35 test data points: 0.584245
+Specific cases
+
+
+Total training time: 1.6084 s
+
+MSELoss() evaluated on 35 test data points: 0.584107
+Specific cases
+
+
+Total training time: 1.8499 s
+
+MSELoss() evaluated on 35 test data points: 0.449957
+Specific cases
+
+
+Total training time: 2.4778 s
+
+MSELoss() evaluated on 35 test data points: 0.461717
+Specific cases
+
+
+Total training time: 1.8716 s
+
+MSELoss() evaluated on 35 test data points: 0.503887
+Specific cases
+
+
+Total training time: 2.4849 s
+
+MSELoss() evaluated on 35 test data points: 0.377595
+Specific cases
+
+Starting inner loop 2
+(318, 716) (35, 716)
+
+Total training time: 1.8286 s
+
+MSELoss() evaluated on 35 test data points: 0.784391
+Specific cases
+
+
+Total training time: 1.9274 s
+
+MSELoss() evaluated on 35 test data points: 0.696729
+Specific cases
+
+

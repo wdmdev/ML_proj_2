@@ -1,0 +1,100 @@
+Starting network training
+Time: 2019-11-05_16-35-45
+Attemptning to predict reported thefts and burglaries 5 years in the future using 4 years of data
+
+Estimating nans
+Done creating dataset (observations, features)
+Data from 2007 to 2018 was used
+x: (392, 716)
+y: (392,)
+
+Performing two-layer cross-validation
+Starting outer loop 0
+Starting inner loop 0
+(131, 716) (65, 716)
+
+Total training time: 3.2469 s
+
+MSELoss() evaluated on 65 test data points: 1.066977
+Specific cases
+
+
+Total training time: 3.0924 s
+
+MSELoss() evaluated on 65 test data points: 1.024100
+Specific cases
+
+Starting inner loop 1
+(131, 716) (65, 716)
+
+Total training time: 2.3966 s
+
+MSELoss() evaluated on 65 test data points: 0.770228
+Specific cases
+
+
+Total training time: 2.3572 s
+
+MSELoss() evaluated on 65 test data points: 0.618821
+Specific cases
+
+Starting inner loop 2
+(131, 716) (65, 716)
+
+Total training time: 2.3002 s
+
+MSELoss() evaluated on 65 test data points: 0.801650
+Specific cases
+
+
+Total training time: 2.6593 s
+
+MSELoss() evaluated on 65 test data points: 0.725430
+Specific cases
+
+Starting outer loop 1
+Starting inner loop 0
+(218, 716) (109, 716)
+
+Total training time: 2.6319 s
+
+MSELoss() evaluated on 109 test data points: 0.839284
+Specific cases
+
+
+Total training time: 3.2309 s
+
+MSELoss() evaluated on 109 test data points: 0.834014
+Specific cases
+
+Starting inner loop 1
+(218, 716) (109, 716)
+
+Total training time: 6.0898 s
+
+MSELoss() evaluated on 109 test data points: 0.617177
+Specific cases
+
+
+Total training time: 3.3206 s
+
+MSELoss() evaluated on 109 test data points: 0.523731
+Specific cases
+
+Starting inner loop 2
+(218, 716) (109, 716)
+
+Total training time: 3.3280 s
+
+MSELoss() evaluated on 109 test data points: 0.729555
+Specific cases
+
+
+Total training time: 2.7763 s
+
+MSELoss() evaluated on 109 test data points: 0.446524
+Specific cases
+
+Done performing two-layer cross-validation. Mean losses for different layer configs:
+[[0.87513044 0.7854226 ]
+ [0.72867209 0.60142311]]

@@ -1,0 +1,18 @@
+% !TeX spellcheck = en_GB
+With regards to regression, the linear regression model has been shown to be significantly better than both the baseline model and the artifical neural network, well beyond a significance level of 5\pro. The ANN still significantly outperformed the baseline model.
+We suspect that a recurrent neural network could improve performance, as this type of network works well with temporal data.
+The linear regression model clearly worked best with low flexibility, meaning high regularization coefficients, which could be an indication that the data is of fairly low complexity.
+This claim is supported by the high correlation of the features as shown in the previous report.
+If this is the case, the low flexibility of the model would ignore variance caused by noise, reduce overfitting, and improve accuracy. The model relied heavily on previous \textbf{RT} numbers to predict new data. If the model had been build with  intentions to lower this number, this feature could have been excluded. 
+The performance of the ANN did not seem to depend on complexity with seemingly random generalization errors. \\
+\\
+In the classification problem the municipalities were put in 3 different risk groups based on the RT feature.
+The grouping provided a large number of data points in the low(679) and medium(473) risk groups and a lot fewer in the high group(24).
+For future model training it would be preferable to have a more equally representation for each group.\\
+\\
+For the selection of classification models the nested cross validation tests provided evidence that models trained on features from the data was indeed better than the baseline case. On the other hand, when comparing the two models (logistic regression and the decision tree) it was not possible to support the hypothesis that one had a better performance than the other. However, the selection was only done for a single type of controlling parameter. If cross validation tests were performed using other parameters such as tree depth og leaf size and using other intervals, it might lead to different conclusions. This could be worth an investigation in a future project.\\
+\\
+This type of classification was somewhat redundant as the municipalities could most likely have been classified equally well by looking at their latest numbers of thefts and burglaries, as these are highly correlated with future numbers.\\
+\\
+While some studies probably have been carried out using similar data, we were unfortunately not able to find any regression or classification studies using this particular dataset, so we do not have anything to compare it to. Even if such a study should exist, the goal would probably not be same, as this dataset does not lend itself to a particular purpose unlike many other datasets such as MNIST or COIL100, so a comparison would not necessarily be of much value. Some aspects, such as preprocessing of data, would however be relevant, regardless of purpose.
+

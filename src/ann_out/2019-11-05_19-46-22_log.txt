@@ -1,0 +1,181 @@
+Starting network training
+Time: 2019-11-05_19-46-22
+Attemptning to predict reported thefts and burglaries 5 years in the future using 4 years of data
+
+Estimating nans
+Done creating dataset (observations, features)
+Data from 2007 to 2018 was used
+x: (392, 716)
+y: (392,)
+
+Performing two-layer cross-validation
+Starting outer loop 0
+Starting inner loop 0
+(98, 716) (98, 716)
+
+Total training time: 3.1816 s
+
+MSELoss() evaluated on 98 test data points: 0.188049
+Specific cases
+
+
+Total training time: 2.8020 s
+
+MSELoss() evaluated on 98 test data points: 0.185539
+Specific cases
+
+
+Total training time: 3.6156 s
+
+MSELoss() evaluated on 98 test data points: 0.186291
+Specific cases
+
+
+Total training time: 2.5446 s
+
+MSELoss() evaluated on 98 test data points: 0.259681
+Specific cases
+
+
+Total training time: 3.5131 s
+
+MSELoss() evaluated on 98 test data points: 0.318607
+Specific cases
+
+
+Total training time: 2.9004 s
+
+MSELoss() evaluated on 98 test data points: 0.449435
+Specific cases
+
+Starting inner loop 1
+(98, 716) (98, 716)
+
+Total training time: 2.8452 s
+
+MSELoss() evaluated on 98 test data points: 0.180593
+Specific cases
+
+
+Total training time: 2.5513 s
+
+MSELoss() evaluated on 98 test data points: 0.191010
+Specific cases
+
+
+Total training time: 3.2357 s
+
+MSELoss() evaluated on 98 test data points: 0.171896
+Specific cases
+
+
+Total training time: 3.4303 s
+
+MSELoss() evaluated on 98 test data points: 0.189578
+Specific cases
+
+
+Total training time: 3.7984 s
+
+MSELoss() evaluated on 98 test data points: 0.247155
+Specific cases
+
+
+Total training time: 3.1234 s
+
+MSELoss() evaluated on 98 test data points: 0.449385
+Specific cases
+
+
+Total training time: 3.0608 s
+
+MSELoss() evaluated on 196 test data points: 0.283189
+Specific cases
+
+Starting outer loop 1
+Starting inner loop 0
+(98, 716) (98, 716)
+
+Total training time: 3.9428 s
+
+MSELoss() evaluated on 98 test data points: 0.142747
+Specific cases
+
+
+Total training time: 4.0265 s
+
+MSELoss() evaluated on 98 test data points: 0.147402
+Specific cases
+
+
+Total training time: 4.0142 s
+
+MSELoss() evaluated on 98 test data points: 0.150945
+Specific cases
+
+
+Total training time: 3.0007 s
+
+MSELoss() evaluated on 98 test data points: 0.165501
+Specific cases
+
+
+Total training time: 3.5465 s
+
+MSELoss() evaluated on 98 test data points: 0.334992
+Specific cases
+
+
+Total training time: 3.2284 s
+
+MSELoss() evaluated on 98 test data points: 0.643398
+Specific cases
+
+Starting inner loop 1
+(98, 716) (98, 716)
+
+Total training time: 2.5121 s
+
+MSELoss() evaluated on 98 test data points: 0.161152
+Specific cases
+
+
+Total training time: 3.3173 s
+
+MSELoss() evaluated on 98 test data points: 0.136131
+Specific cases
+
+
+Total training time: 2.8319 s
+
+MSELoss() evaluated on 98 test data points: 0.169193
+Specific cases
+
+
+Total training time: 2.3595 s
+
+MSELoss() evaluated on 98 test data points: 0.267259
+Specific cases
+
+
+Total training time: 2.8019 s
+
+MSELoss() evaluated on 98 test data points: 0.548330
+Specific cases
+
+
+Total training time: 3.3280 s
+
+MSELoss() evaluated on 98 test data points: 0.397775
+Specific cases
+
+
+Total training time: 2.5122 s
+
+MSELoss() evaluated on 196 test data points: 0.249384
+Specific cases
+
+Done performing two-layer cross-validation.
+0.2662866488099098
+[0.28318924 0.24938406]
+[(128,), (256,)]
